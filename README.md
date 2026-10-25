@@ -89,8 +89,8 @@ Copyright (c) 2026 the authors: Palaash Gang, Akshaj Agadi, Arjun Veluri, Jerry 
 
 Cite the paper and the archived version of this repository:
 
-- Palaash Gang, Akshaj Agadi, Arjun Veluri, Jerry Wang, Jeremy Barreto, Aarin Chouthaiwale, *How many heat invariants determine a hyperbolic orbifold?*, preprint, [PLACEHOLDER: preprint identifier].
-- Palaash Gang, Akshaj Agadi, Arjun Veluri, Jerry Wang, Jeremy Barreto, Aarin Chouthaiwale, *Code and data for: How many heat invariants determine a hyperbolic orbifold?*, Zenodo, [PLACEHOLDER: Zenodo DOI].
+- Palaash Gang, Akshaj Agadi, Arjun Veluri, Jerry Wang, Jeremy Barreto, Aarin Chouthaiwale, *How many heat invariants determine a hyperbolic orbifold?*, Preprint: to appear (arXiv).
+- Palaash Gang, Akshaj Agadi, Arjun Veluri, Jerry Wang, Jeremy Barreto, Aarin Chouthaiwale, *Code and data for: How many heat invariants determine a hyperbolic orbifold?*. The archived version of this repository, with its DOI, is on Zenodo (see the DOI badge and link on the GitHub page).
 
 `CITATION.cff` and `.zenodo.json` hold the same metadata, with the authors' ORCID iDs and affiliations.
 The repository is https://github.com/pa1aash/heat-invariants-orbifolds.

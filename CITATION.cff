@@ -29,7 +29,6 @@ authors:
     affiliation: "DriveChange Learning and Resource Centre, Pune, India"
 repository-code: "https://github.com/pa1aash/heat-invariants-orbifolds"
 license: MIT
-doi: "[PLACEHOLDER: Zenodo DOI]"
 keywords:
   - "heat invariants"
   - "hyperbolic orbifolds"
@@ -61,7 +60,3 @@ preferred-citation:
     - family-names: "Chouthaiwale"
       given-names: "Aarin"
       orcid: "https://orcid.org/0009-0008-3878-7183"
-  identifiers:
-    - type: other
-      value: "[PLACEHOLDER: preprint identifier]"
-      description: "preprint of the paper"
