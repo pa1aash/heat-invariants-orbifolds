@@ -1,0 +1,3 @@
+N=130: 493877 sets A with e_1 = 0 and all |entries| <= N; 132 ordered pencil splittings; 17 distinct witnesses, 14 primitive; smallest primitive: (3, 10, 15, 30)/(4, 5, 21, 28); (7, 15, 50, 75)/(9, 10, 56, 72); (7, 21, 44, 77)/(9, 12, 56, 72)
+N=220: 2382392 sets A with e_1 = 0 and all |entries| <= N; 360 ordered pencil splittings; 49 distinct witnesses, 30 primitive; smallest primitive: (3, 10, 15, 30)/(4, 5, 21, 28); (7, 15, 50, 75)/(9, 10, 56, 72); (7, 21, 44, 77)/(9, 12, 56, 72)
+d1_pencil_counts.py: every witness checked exactly (equal R, P1, P3; different P5)

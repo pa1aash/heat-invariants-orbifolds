@@ -1,0 +1,5 @@
+# PARI/GP through cypari2, for the rank and descent steps (skipped with a message if absent).
+# cypari2 2.2.4 bundles PARI/GP 2.17.2, the version that produced the committed outputs.
+#   .venv/bin/pip install --only-binary :all: -r requirements-pari.txt
+cypari2==2.2.4
+cysignals==1.13.1

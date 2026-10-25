@@ -1,0 +1,28 @@
+collisions (m, m') with entries <= 440, equal R, P1, P3: 193
+distinct primitive configurations: 107 (the rest are integer multiples)
+max entry among them: 440
+pencil-decomposable: 101 ; NOT pencil: 6
+   NON-PENCIL witness: (-88, -44, -37, -11, 16, 16, 74, 74)
+   NON-PENCIL witness: (-119, -51, -51, -9, 11, 21, 99, 99)
+   NON-PENCIL witness: (-143, -52, -52, -11, 17, 17, 88, 136)
+   NON-PENCIL witness: (-221, -154, -112, -68, 77, 88, 182, 208)
+   NON-PENCIL witness: (-364, -280, -200, -143, 154, 175, 308, 350)
+   NON-PENCIL witness: (-425, -170, -85, -19, 22, 50, 209, 418)
+of these, in the claimed list of 61: 61
+listed configurations with max entry <= 440 (all 61 should be): 61 ; found by the direct search: 61
+direct witnesses (max entry <= 440) not in the list: 46
+   e.g. (-88, -44, -37, -11, 16, 16, 74, 74) pencil splits (primitive A,B): []
+   e.g. (-119, -51, -51, -9, 11, 21, 99, 99) pencil splits (primitive A,B): []
+   e.g. (-143, -52, -52, -11, 17, 17, 88, 136) pencil splits (primitive A,B): []
+   e.g. (-221, -154, -112, -68, 77, 88, 182, 208) pencil splits (primitive A,B): []
+   e.g. (-238, -105, -51, -5, 6, 18, 150, 225) pencil splits (primitive A,B): [([-238, -5, 18, 225], [-50, -2, 17, 35])]
+   e.g. (-247, -114, -39, -3, 4, 9, 156, 234) pencil splits (primitive A,B): [([-247, 4, 9, 234], [-52, 1, 13, 38])]
+   e.g. (-252, -78, -42, -4, 6, 9, 114, 247) pencil splits (primitive A,B): [([-252, -4, 9, 247], [-19, -1, 7, 13])]
+   e.g. (-252, -156, -91, -52, 57, 76, 171, 247) pencil splits (primitive A,B): [([-252, -52, 57, 247], [-171, -76, 91, 156])]
+  max entry <= 88: 9 primitive witnesses, 1 not pencil, 8 in the list
+  max entry <= 130: 16 primitive witnesses, 2 not pencil, 14 in the list
+  max entry <= 220: 33 primitive witnesses, 3 not pencil, 30 in the list
+  max entry <= 440: 107 primitive witnesses, 6 not pencil, 61 in the list
+smallest non-pencil witness: (0;16,16,74,74) ~ (0;11,37,44,88): R = 45/296, P1 = 180, P3 = 818640, shares exactly 3
+smallest direct witness: (-30, -15, -10, -3, 4, 5, 21, 28)
+ALL OK

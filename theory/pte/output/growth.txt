@@ -1,0 +1,19 @@
+(1) Theorem 4.1 bound >= Cor. N1 bound on [4, 10^6] (586 breakpoints); strictly larger exactly on [13, 15), [28, 1000000)
+    A/2pi = 28: new 5, old 4
+    A/2pi = 1000: new 20, old 6
+    A/2pi = 1000000: new 579, old 11
+(2) Theorem 3.4 constructions (unoptimised):
+    L=2: N(2L-3)<=2: genus T=8 <= 8; balanced T=12 <= 12; cone T=12 <= 12 (cone counts 6 vs 5)
+    L=3: N(2L-3)<=4: genus T=16 <= 16; balanced T=16 <= 18; cone T=24 <= 24 (cone counts 12 vs 11)
+    L=4: N(2L-3)<=6: genus T=24 <= 24; balanced T=24 <= 24; cone T=32 <= 36 (cone counts 16 vs 15)
+    L=5: N(2L-3)<=8: genus T=32 <= 32; balanced T=30 <= 30; cone T=46 <= 48 (cone counts 23 vs 22)
+    L=6: N(2L-3)<=10: genus T=40 <= 40; balanced T=36 <= 36; cone T=60 <= 60 (cone counts 30 vs 29)
+    L=7: N(2L-3)<=12: genus T=48 <= 48; balanced T=68 <= 72; cone T=72 <= 72 (cone counts 36 vs 35)
+(3) thresholds: f(A) >= L+1 for A/2pi >= A_L (least area among the section-5 witnesses)
+    L=2: A_L/2pi = 0.250000 (<= 0.250; balanced pair, T=6); Cor. N1 needs A/2pi >= 3; Theorem 4.1 needs A/2pi >= 4
+    L=3: A_L/2pi = 1.466667 (<= 1.467; balanced pair, T=8); Cor. N1 needs A/2pi >= 15; Theorem 4.1 needs A/2pi >= 13
+    L=4: A_L/2pi = 5.000000 (<= 5.000; balanced pair, T=14); Cor. N1 needs A/2pi >= 63; Theorem 4.1 needs A/2pi >= 28
+    L=5: A_L/2pi = 7.000000 (<= 7.000; balanced pair, T=18); Cor. N1 needs A/2pi >= 255; Theorem 4.1 needs A/2pi >= 49
+    L=6: A_L/2pi = 10.000000 (<= 10.000; balanced pair, T=24); Cor. N1 needs A/2pi >= 1023; Theorem 4.1 needs A/2pi >= 76
+    L=7: A_L/2pi = 18.000000 (<= 18.000; balanced pair, T=40); Cor. N1 needs A/2pi >= 4095; Theorem 4.1 needs A/2pi >= 109
+ALL CHECKS PASSED

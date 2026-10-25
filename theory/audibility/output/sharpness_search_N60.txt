@@ -1,0 +1,6 @@
+n=3: (2, 8, 8) vs (3, 3, 12): share ['R', 'S1'] = ['3/4', '18']; invariant 3: 1032 != 1782; Phi = 500 z^3
+n=4: (3, 10, 15, 30) vs (4, 5, 21, 28): share ['R', 'S1', 'P3'] = ['8/15', '58', '31402']; invariant 4: 25159618 != 21298618; Phi = 1544400 z^3
+3-cone vs 4-cone, orders <= 60: 593769 padded multisets, 0 sharing the first three coefficients
+n=5, orders 2..60: scanned 7028847 multisets in 36.5s; (R,S1,P3,P5) collisions: {'all': 0, 'primitive': 0, 'primitive_disjoint': 0}; (R,S1,P3) collisions: {'all': 134, 'primitive': 99, 'primitive_disjoint': 11}; data -> sharpness_n5_N60.json
+smallest-S1 primitive disjoint (R,S1,P3) collision: ((3, 7, 7, 7, 14), (4, 4, 6, 12, 12))
+exit=0

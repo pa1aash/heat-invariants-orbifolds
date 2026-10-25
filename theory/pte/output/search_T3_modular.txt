@@ -1,0 +1,19 @@
+control: all 1798940 3-multisets of [1, 220] pass the modular test (2 s)
+search: 4325115770 primitive 5-multisets of [1, 220] (= Moebius count), 15 split modulo all 12 primes (156 s)
+  V = [29, 99, 112, 143, 194]: q_V has 0 rational linear factors; factors ['1359668281*t**3 - 784528598137*t**2 + 144796042045918*t - 2205240210429984']
+  V = [30, 102, 115, 162, 167]: q_V has 0 rational linear factors; factors ['45158991*t**3 - 26011578816*t**2 + 4824088027759*t - 75383712937890']
+  V = [37, 63, 170, 202, 208]: q_V has 0 rational linear factors; factors ['8076675962*t**3 - 5492139654160*t**2 + 1185769606885217*t - 20255514074162640']
+  V = [38, 66, 110, 203, 219]: q_V has 0 rational linear factors; factors ['1727856189*t**3 - 1098916536204*t**2 + 220131335071801*t - 3665768266177710']
+  V = [38, 93, 144, 203, 204]: q_V has 0 rational linear factors; factors ['5227557311*t**3 - 3565194086102*t**2 + 778807513928396*t - 14464954969504704']
+  V = [46, 50, 66, 116, 211]: q_V has 0 rational linear factors; factors ['1721112007*t**3 - 841623771423*t**2 + 127444002768710*t - 1814132158773000']
+  V = [51, 99, 138, 172, 213]: q_V has 0 rational linear factors; factors ['83584763*t**3 - 56252545499*t**2 + 12237231334926*t - 257821219869048']
+  V = [65, 67, 85, 176, 186]: q_V has 0 rational linear factors; factors ['2404537891*t**3 - 1392227438889*t**2 + 259018061104046*t - 4874913139283616']
+  V = [65, 106, 123, 146, 192]: q_V has 0 rational linear factors; factors ['646792654*t**3 - 408772957328*t**2 + 84473695447569*t - 1876930155322560']
+  V = [74, 81, 156, 176, 190]: q_V has 0 rational linear factors; factors ['18406855271*t**3 - 12461441018467*t**2 + 2751720281200236*t - 63675966541112640']
+  V = [81, 89, 103, 170, 175]: q_V has 0 rational linear factors; factors ['26752499*t**3 - 16533044382*t**2 + 3344538845245*t - 74510171237250']
+  V = [86, 121, 148, 160, 205]: q_V has 0 rational linear factors; factors ['16543351400*t**3 - 11911213008000*t**2 + 2821813336974873*t - 74696250124057760']
+  V = [99, 111, 128, 142, 158]: q_V has 0 rational linear factors; factors ['590701999*t**3 - 376867875362*t**2 + 79780908707781*t - 1979975513121408']
+  V = [110, 116, 123, 128, 161]: q_V has 0 rational linear factors; factors ['49393294247*t**3 - 31512921729586*t**2 + 6679916143016458*t - 167561916268750080']
+  V = [118, 121, 148, 176, 192]: q_V has 0 rational linear factors; factors ['1265928289*t**3 - 955775858195*t**2 + 239020439692858*t - 6951108173319552']
+no 5-multiset with entries <= 220 and gcd 1 has a rational partner triple: T_g(3) = 8 is excluded in this range
+exit 0

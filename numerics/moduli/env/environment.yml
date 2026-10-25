@@ -1,0 +1,12 @@
+# Pinned environment for numerics/moduli (server and Mac).  Built by setup_server.sh.
+# Python from conda-forge; the scientific stack from PyPI with the exact pins of
+# numerics/requirements.txt (the S3 environment), so that the S3 reproducibility
+# check runs the same library versions.
+name: moduli
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13.7
+  - pip
+  - pip:
+      - -r requirements.txt

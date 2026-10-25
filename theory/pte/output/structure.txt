@@ -1,0 +1,9 @@
+(A) Theorem 2.1 holds on all 18 witnesses (V+ + V- = T, |iota| <= T - 2L).
+(A) exhaustive: L=2, T=6, entries in [-20,20]: 22 configurations, |iota| values [0, 2] (bound T-2L = 2)
+(A) exhaustive: L=2, T=8, entries in [-9,9]: 0 configurations, |iota| values [] (bound T-2L = 4)
+(A) exhaustive: L=3, T=8, entries in [-8,8]: 0 configurations, |iota| values [] (bound T-2L = 2)
+(A) exhaustive: L=3, T=10, entries in [-8,8]: 0 configurations, |iota| values [] (bound T-2L = 4)
+(B) Prop 2.3(a) iota = sgn s_-1: 304 5-sets, 740 Gloden 7-sets, 5 fetched 7-sets, 2 9-sets: all OK
+(C) Theorem 3.1 weight lemma: for m = 4..10, odd s_j (j <= 2m-5) are free of e_{k0}; s_{2m-3} is not
+(D) shift expansion (Prop 3.2) and doubling identity (Prop 3.3) verified
+ALL CHECKS PASSED

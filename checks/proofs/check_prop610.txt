@@ -1,0 +1,41 @@
+PASS (a) (2, 8, 8): F I + h0 = (c_1..c_n) = ['1/8', '67/48', '-1601/480']
+PASS (a) (3, 3, 12): F I + h0 = (c_1..c_n) = ['1/8', '67/48', '-867/160']
+PASS (a) (3, 10, 15, 30): F I + h0 = (c_1..c_n) = ['11/15', '409/90', '-239689/2700', '75810911/7560']
+PASS (a) (2, 2, 2, 2, 3): F I + h0 = (c_1..c_n) = ['1/3', '11/18', '-203/540', '2033/7560', '-671/1680']
+PASS (a) (2,8,8): c = (1/8, 67/48, -1601/480) as in Section 2 of the paper
+PASS (b) the 11 cases of Table 4 are threshold.py's CASES
+PASS (b) (2, 8, 8): r_rem, A = |M^-1||dM| and E agree exactly with threshold.py at delta = 2.341e-3
+PASS (c) (2, 8, 8): delta_cert = 2.341e-3 certified from the printed formulas (and by threshold.py)
+PASS (d) (2, 8, 8): delta_thm = 3.80e-7 certified
+PASS (b) (3, 3, 12): r_rem, A = |M^-1||dM| and E agree exactly with threshold.py at delta = 4.040e-3
+PASS (c) (3, 3, 12): delta_cert = 4.040e-3 certified from the printed formulas (and by threshold.py)
+PASS (d) (3, 3, 12): delta_thm = 1.18e-7 certified
+PASS (b) (3, 10, 15, 30): r_rem, A = |M^-1||dM| and E agree exactly with threshold.py at delta = 3.660e-3
+PASS (c) (3, 10, 15, 30): delta_cert = 3.660e-3 certified from the printed formulas (and by threshold.py)
+PASS (d) (3, 10, 15, 30): delta_thm = 4.02e-11 certified
+PASS (b) (4, 5, 21, 28): r_rem, A = |M^-1||dM| and E agree exactly with threshold.py at delta = 1.461e-3
+PASS (c) (4, 5, 21, 28): delta_cert = 1.461e-3 certified from the printed formulas (and by threshold.py)
+PASS (d) (4, 5, 21, 28): delta_thm = 3.14e-11 certified
+PASS (b) (2, 3, 7): r_rem, A = |M^-1||dM| and E agree exactly with threshold.py at delta = 3.658e-3
+PASS (c) (2, 3, 7): delta_cert = 3.658e-3 certified from the printed formulas (and by threshold.py)
+PASS (d) (2, 3, 7): delta_thm = 4.49e-7 certified
+PASS (b) (4, 4, 4): r_rem, A = |M^-1||dM| and E agree exactly with threshold.py at delta = 4.539e-4
+PASS (c) (4, 4, 4): delta_cert = 4.539e-4 certified from the printed formulas (and by threshold.py)
+PASS (d) (4, 4, 4): delta_thm = 9.35e-7 certified
+PASS (b) (7, 7, 7): r_rem, A = |M^-1||dM| and E agree exactly with threshold.py at delta = 8.068e-5
+PASS (c) (7, 7, 7): delta_cert = 8.068e-5 certified from the printed formulas (and by threshold.py)
+PASS (d) (7, 7, 7): delta_thm = 9.97e-8 certified
+PASS (b) (3, 3, 4, 4): r_rem, A = |M^-1||dM| and E agree exactly with threshold.py at delta = 9.597e-5
+PASS (c) (3, 3, 4, 4): delta_cert = 9.597e-5 certified from the printed formulas (and by threshold.py)
+PASS (d) (3, 3, 4, 4): delta_thm = 1.48e-9 certified
+PASS (b) (5, 5, 5, 5): r_rem, A = |M^-1||dM| and E agree exactly with threshold.py at delta = 3.617e-5
+PASS (c) (5, 5, 5, 5): delta_cert = 3.617e-5 certified from the printed formulas (and by threshold.py)
+PASS (d) (5, 5, 5, 5): delta_thm = 4.74e-10 certified
+PASS (b) (2, 2, 2, 3): r_rem, A = |M^-1||dM| and E agree exactly with threshold.py at delta = 1.858e-4
+PASS (c) (2, 2, 2, 3): delta_cert = 1.858e-4 certified from the printed formulas (and by threshold.py)
+PASS (d) (2, 2, 2, 3): delta_thm = 2.03e-9 certified
+PASS (b) (2, 2, 2, 2, 3): r_rem, A = |M^-1||dM| and E agree exactly with threshold.py at delta = 7.908e-6
+PASS (c) (2, 2, 2, 2, 3): delta_cert = 7.908e-6 certified from the printed formulas (and by threshold.py)
+PASS (d) (2, 2, 2, 2, 3): delta_thm = 2.72e-12 certified
+
+39 checks, 0 failures

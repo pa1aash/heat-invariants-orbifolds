@@ -1,0 +1,58 @@
+cypari2 2.2.4, PARI/GP 2.17.2
+
+lambda = 27/2   (base pair {(2,8,8),(3,3,12)}: isolation theorem)
+  call:     E = ellinit([0, 393, 0, 3456, 0]); ellrank(E); elltors(E); ellrootno(E)
+  ellrank:  [0, 0, 0, []]
+  elltors:  [12, [6, 2], [[-24, 360], [0, 0]]]
+  rootno:   1
+  conductor: 90
+  rank:     0 <= rank <= 0   -> PROVEN
+  points:   0 returned, all on the model; height-matrix det = None
+
+lambda = 155/12   ((4,9,18),(5,6,20) at S = 31: large-fibre theorem)
+  call:     E = ellinit([0, 12433, 0, 4285440, 0]); ellrank(E); elltors(E); ellrootno(E)
+  ellrank:  [2, 2, 0, [[-11904, 154752], [-9720, 463320]]]
+  elltors:  [6, [6], [[7440, 1063920]]]
+  rootno:   1
+  conductor: 6250530
+  rank:     2 <= rank <= 2   -> PROVEN
+  points:   2 returned, all on the model; height-matrix det = 2.30823866355395
+
+lambda = 68/5   (first fibre of size 3 (S = 136) and of size 4 (S = 408))
+  call:     E = ellinit([0, 2509, 0, 136000, 0]); ellrank(E); elltors(E); ellrootno(E)
+  ellrank:  [2, 2, 0, [[-2000, 42000], [8500, 892500]]]
+  elltors:  [6, [6], [[1360, 85680]]]
+  rootno:   1
+  conductor: 82110
+  rank:     2 <= rank <= 2   -> PROVEN
+  points:   2 returned, all on the model; height-matrix det = 1.57785152630034
+
+lambda = 1849/120   (first fibre of size 5 (S = 1849))
+  call:     E = ellinit([0, 2044321, 0, 51121152000, 0]); ellrank(E); elltors(E); ellrootno(E)
+  ellrank:  [3, 3, 0, [[-132096, 163138560], [1100800/9, 5309158400/27], [154800/49, 4626507600/343]]]
+  elltors:  [6, [6], [[887520, 1534522080]]]
+  rootno:   -1
+  conductor: 1715185290
+  rank:     3 <= rank <= 3   -> PROVEN
+  points:   3 returned, all on the model; height-matrix det = 8.45335184397330
+
+lambda = 230/21   (first fibre of size 6 (S = 4600))
+  call:     E = ellinit([0, 22597, 0, 34080480, 0]); ellrank(E); elltors(E); ellrootno(E)
+  ellrank:  [3, 3, 0, [[-20580, 391020], [-17388, 991116], [10143, 1927170]]]
+  elltors:  [6, [6], [[19320, 4037880]]]
+  rootno:   -1
+  conductor: 41388270
+  rank:     3 <= rank <= 3   -> PROVEN
+  points:   3 returned, all on the model; height-matrix det = 5.73874505386291
+
+lambda = 169/16   (torsion Z/12 with r = -4: the pairs of torsion type)
+  call:     E = ellinit([0, 11569, 0, 11075584, 0]); ellrank(E); elltors(E); ellrootno(E)
+  ellrank:  [1, 1, 0, [[-10400, 106080]]]
+  elltors:  [12, [12], [[208, 53040]]]
+  rootno:   -1
+  conductor: 6630
+  rank:     1 <= rank <= 1   -> PROVEN
+  points:   1 returned, all on the model; height-matrix det = 1.26700471986063
+
+ASSERT  rank(C_{27/2}) upper bound r2 = 0 (unconditional 2-descent bound): PASS
+ASSERT  C_{27/2}(Q) = 12 explicit points; positive ones are permutations of (1,4,4) and (1,1,4) only: PASS  -> isolation theorem proven

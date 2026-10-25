@@ -1,0 +1,1951 @@
+#done 4
+#done 5
+#done 6
+#done 7
+#done 8
+#done 9
+#done 10
+#done 11
+#done 12
+#done 13
+#done 14
+#done 15
+#done 16
+#done 17
+#done 18
+#done 19
+#done 20
+#done 21
+#done 22
+#done 23
+#done 24
+#done 25
+#done 26
+#done 27
+#done 28
+#done 29
+#done 30
+#done 31
+#done 32
+#done 33
+#done 34
+#done 35
+#done 36
+#done 37
+#done 38
+#done 39
+#done 40
+#done 41
+#done 42
+#done 43
+#done 44
+#done 45
+#done 46
+#done 47
+#done 48
+#done 49
+#done 50
+#done 51
+#done 52
+#done 53
+#done 54
+#done 55
+#done 56
+#done 57
+58 31402 4 5 21 28 | 3 10 15 30
+#done 58
+#done 59
+#done 60
+#done 61
+#done 62
+#done 63
+#done 64
+#done 65
+#done 66
+#done 67
+#done 68
+#done 69
+#done 70
+#done 71
+#done 72
+#done 73
+#done 74
+#done 75
+#done 76
+#done 77
+#done 78
+#done 79
+#done 80
+#done 81
+#done 82
+#done 83
+#done 84
+#done 85
+#done 86
+#done 87
+#done 88
+#done 89
+#done 90
+#done 91
+#done 92
+#done 93
+#done 94
+#done 95
+#done 96
+#done 97
+#done 98
+#done 99
+#done 100
+#done 101
+#done 102
+#done 103
+#done 104
+#done 105
+#done 106
+#done 107
+#done 108
+#done 109
+#done 110
+#done 111
+#done 112
+#done 113
+#done 114
+#done 115
+116 251216 8 10 42 56 | 6 20 30 60
+#done 116
+#done 117
+#done 118
+#done 119
+#done 120
+#done 121
+#done 122
+#done 123
+#done 124
+#done 125
+#done 126
+#done 127
+#done 128
+#done 129
+#done 130
+#done 131
+#done 132
+#done 133
+#done 134
+#done 135
+#done 136
+#done 137
+#done 138
+#done 139
+#done 140
+#done 141
+#done 142
+#done 143
+#done 144
+#done 145
+#done 146
+147 550593 7 15 50 75 | 9 10 56 72
+#done 147
+#done 148
+149 551321 7 21 44 77 | 9 12 56 72
+#done 149
+150 551790 9 13 56 72 | 7 26 39 78
+#done 150
+#done 151
+152 551978 10 21 44 77 | 12 15 50 75
+#done 152
+153 552447 13 15 50 75 | 10 26 39 78
+#done 153
+#done 154
+155 553175 12 26 39 78 | 13 21 44 77
+#done 155
+#done 156
+#done 157
+#done 158
+#done 159
+#done 160
+#done 161
+#done 162
+#done 163
+#done 164
+#done 165
+#done 166
+#done 167
+#done 168
+#done 169
+#done 170
+#done 171
+172 715156 14 18 63 77 | 11 33 44 84
+#done 172
+#done 173
+174 847854 9 30 45 90 | 12 15 63 84
+#done 174
+#done 175
+#done 176
+#done 177
+#done 178
+#done 179
+180 818640 11 37 44 88 | 16 16 74 74
+#done 180
+#done 181
+#done 182
+#done 183
+#done 184
+#done 185
+#done 186
+#done 187
+#done 188
+#done 189
+190 1231210 7 14 78 91 | 6 22 63 99
+#done 190
+191 1231841 6 25 60 100 | 7 15 78 91
+#done 191
+#done 192
+193 1233379 7 17 78 91 | 6 34 51 102
+#done 193
+#done 194
+#done 195
+#done 196
+#done 197
+#done 198
+199 1234369 14 25 60 100 | 15 22 63 99
+#done 199
+#done 200
+201 1235907 14 34 51 102 | 17 22 63 99
+#done 201
+202 1236538 17 25 60 100 | 15 34 51 102
+#done 202
+#done 203
+#done 204
+#done 205
+#done 206
+#done 207
+#done 208
+#done 209
+#done 210
+#done 211
+#done 212
+#done 213
+#done 214
+#done 215
+#done 216
+#done 217
+#done 218
+#done 219
+#done 220
+#done 221
+#done 222
+#done 223
+#done 224
+#done 225
+#done 226
+#done 227
+#done 228
+#done 229
+230 1951190 11 21 99 99 | 9 51 51 119
+#done 230
+#done 231
+232 2009728 16 20 84 112 | 12 40 60 120
+#done 232
+#done 233
+#done 234
+#done 235
+#done 236
+#done 237
+#done 238
+#done 239
+#done 240
+#done 241
+#done 242
+#done 243
+#done 244
+#done 245
+#done 246
+#done 247
+#done 248
+#done 249
+#done 250
+#done 251
+#done 252
+#done 253
+#done 254
+#done 255
+#done 256
+#done 257
+258 3206754 17 17 88 136 | 11 52 52 143
+#done 258
+#done 259
+#done 260
+#done 261
+#done 262
+#done 263
+#done 264
+#done 265
+#done 266
+#done 267
+#done 268
+#done 269
+#done 270
+#done 271
+#done 272
+#done 273
+#done 274
+#done 275
+#done 276
+#done 277
+#done 278
+#done 279
+#done 280
+#done 281
+#done 282
+283 3915457 15 26 99 143 | 18 20 105 140
+#done 283
+#done 284
+#done 285
+#done 286
+#done 287
+#done 288
+#done 289
+290 3925250 15 50 75 150 | 20 25 105 140
+#done 290
+#done 291
+#done 292
+293 3927707 18 50 75 150 | 25 26 99 143
+#done 293
+294 4404744 14 30 100 150 | 18 20 112 144
+#done 294
+#done 295
+#done 296
+#done 297
+298 4410568 14 42 88 154 | 18 24 112 144
+#done 298
+#done 299
+300 4414320 14 52 78 156 | 18 26 112 144
+#done 300
+#done 301
+#done 302
+#done 303
+304 4415824 24 30 100 150 | 20 42 88 154
+#done 304
+#done 305
+306 4419576 20 52 78 156 | 26 30 100 150
+#done 306
+#done 307
+308 3678884 22 66 77 143 | 26 39 117 126
+308 5134052 10 55 78 165 | 13 22 130 143
+#done 308
+309 6099093 8 13 132 156 | 9 11 136 153
+#done 309
+310 4425400 24 52 78 156 | 26 42 88 154
+#done 310
+#done 311
+#done 312
+#done 313
+#done 314
+#done 315
+#done 316
+#done 317
+#done 318
+#done 319
+#done 320
+#done 321
+#done 322
+#done 323
+#done 324
+#done 325
+#done 326
+327 6122151 8 58 87 174 | 9 29 136 153
+#done 327
+328 6124762 8 70 75 175 | 9 30 136 153
+#done 328
+#done 329
+330 6122970 11 58 87 174 | 13 29 132 156
+#done 330
+331 6125581 13 30 132 156 | 11 70 75 175
+#done 331
+#done 332
+#done 333
+#done 334
+#done 335
+#done 336
+#done 337
+338 7631624 16 64 66 192 | 21 28 102 187
+#done 338
+#done 339
+#done 340
+#done 341
+#done 342
+#done 343
+344 5721248 22 66 88 168 | 28 36 126 154
+#done 344
+#done 345
+#done 346
+#done 347
+348 6782832 18 60 90 180 | 24 30 126 168
+#done 348
+349 6148639 29 70 75 175 | 30 58 87 174
+#done 349
+#done 350
+#done 351
+352 12376576 4 8 120 220 | 3 25 99 225
+#done 352
+#done 353
+#done 354
+#done 355
+#done 356
+357 4164363 45 65 117 130 | 42 84 91 140
+#done 357
+#done 358
+#done 359
+360 6549120 22 74 88 176 | 32 32 148 148
+#done 360
+#done 361
+#done 362
+#done 363
+#done 364
+#done 365
+#done 366
+#done 367
+#done 368
+#done 369
+#done 370
+#done 371
+#done 372
+#done 373
+#done 374
+#done 375
+376 16551712 4 42 78 252 | 6 9 114 247
+#done 376
+377 8848853 12 65 105 195 | 13 42 140 182
+#done 377
+#done 378
+#done 379
+380 9849680 14 28 156 182 | 12 44 126 198
+#done 380
+#done 381
+382 9854728 12 50 120 200 | 14 30 156 182
+#done 382
+#done 383
+384 9888768 11 33 165 175 | 10 50 126 198
+#done 384
+#done 385
+386 9867032 12 68 102 204 | 14 34 156 182
+#done 386
+#done 387
+#done 388
+#done 389
+#done 390
+#done 391
+#done 392
+#done 393
+#done 394
+#done 395
+#done 396
+#done 397
+398 9874952 28 50 120 200 | 30 44 126 198
+#done 398
+399 9714069 35 39 130 195 | 26 84 85 204
+399 14771673 6 18 150 225 | 5 51 105 238
+#done 399
+#done 400
+#done 401
+402 9887256 28 68 102 204 | 34 44 126 198
+#done 402
+403 16610113 4 9 156 234 | 3 39 114 247
+#done 403
+404 9892304 30 68 102 204 | 34 50 120 200
+#done 404
+#done 405
+406 10770886 21 70 105 210 | 28 35 147 196
+#done 406
+407 14240501 18 21 144 224 | 14 32 133 228
+#done 407
+#done 408
+#done 409
+#done 410
+#done 411
+#done 412
+#done 413
+#done 414
+#done 415
+#done 416
+#done 417
+#done 418
+419 12692699 25 33 152 209 | 24 35 150 210
+#done 419
+420 20965770 12 65 70 273 | 15 27 108 270
+#done 420
+#done 421
+#done 422
+#done 423
+#done 424
+#done 425
+#done 426
+#done 427
+#done 428
+#done 429
+430 12723730 24 68 117 221 | 33 36 152 209
+#done 430
+431 12725531 25 68 117 221 | 35 36 150 210
+431 12727727 33 37 152 209 | 24 74 111 222
+#done 431
+432 12729528 35 37 150 210 | 25 74 111 222
+432 12886992 26 42 156 208 | 21 91 96 224
+#done 432
+#done 433
+#done 434
+#done 435
+#done 436
+#done 437
+#done 438
+#done 439
+#done 440
+441 14866011 27 30 168 216 | 21 45 150 225
+#done 441
+#done 442
+443 12760559 37 68 117 221 | 36 74 111 222
+#done 443
+#done 444
+#done 445
+#done 446
+447 14885667 21 63 132 231 | 27 36 168 216
+#done 447
+#done 448
+#done 449
+450 14898330 27 39 168 216 | 21 78 117 234
+#done 450
+#done 451
+#done 452
+#done 453
+#done 454
+#done 455
+456 14903406 36 45 150 225 | 30 63 132 231
+#done 456
+#done 457
+#done 458
+459 14916069 30 78 117 234 | 39 45 150 225
+#done 459
+460 15609520 18 102 102 238 | 22 42 198 198
+#done 460
+#done 461
+#done 462
+463 17274187 20 51 154 238 | 25 33 180 225
+#done 463
+464 16077824 24 80 120 240 | 32 40 168 224
+#done 464
+465 14935725 39 63 132 231 | 36 78 117 234
+#done 465
+#done 466
+#done 467
+#done 468
+#done 469
+#done 470
+471 17307171 25 41 180 225 | 20 82 123 246
+#done 471
+472 17312338 20 91 114 247 | 25 42 180 225
+#done 472
+473 14703893 32 54 189 198 | 28 77 144 224
+#done 473
+#done 474
+#done 475
+#done 476
+#done 477
+#done 478
+#done 479
+#done 480
+#done 481
+#done 482
+#done 483
+484 17335108 33 82 123 246 | 41 51 154 238
+#done 484
+485 17340275 33 91 114 247 | 42 51 154 238
+#done 485
+486 21628026 10 51 170 255 | 11 34 210 231
+#done 486
+#done 487
+#done 488
+#done 489
+#done 490
+491 21648041 11 39 210 231 | 10 65 156 260
+#done 491
+#done 492
+493 17373259 42 82 123 246 | 41 91 114 247
+#done 493
+#done 494
+#done 495
+#done 496
+497 21679847 10 95 126 266 | 11 45 210 231
+#done 497
+#done 498
+#done 499
+#done 500
+#done 501
+#done 502
+#done 503
+#done 504
+#done 505
+#done 506
+#done 507
+#done 508
+#done 509
+#done 510
+#done 511
+#done 512
+513 32955903 9 18 189 297 | 7 44 154 308
+#done 513
+#done 514
+515 21686345 34 65 156 260 | 39 51 170 255
+#done 515
+516 19309212 33 99 132 252 | 42 54 189 231
+516 25654032 22 104 104 286 | 34 34 176 272
+#done 516
+#done 517
+#done 518
+#done 519
+#done 520
+521 21718151 34 95 126 266 | 45 51 170 255
+#done 521
+522 22892058 27 90 135 270 | 36 45 189 252
+#done 522
+#done 523
+#done 524
+#done 525
+526 21738166 45 65 156 260 | 39 95 126 266
+#done 526
+#done 527
+#done 528
+#done 529
+#done 530
+#done 531
+#done 532
+#done 533
+#done 534
+#done 535
+#done 536
+#done 537
+#done 538
+#done 539
+540 22103280 48 48 222 222 | 33 111 132 264
+#done 540
+#done 541
+#done 542
+#done 543
+#done 544
+#done 545
+#done 546
+#done 547
+#done 548
+#done 549
+#done 550
+551 20693603 52 91 156 252 | 57 76 171 247
+#done 551
+#done 552
+#done 553
+#done 554
+555 16165485 68 112 154 221 | 77 88 182 208
+#done 555
+#done 556
+#done 557
+#done 558
+559 45470971 19 22 176 342 | 12 96 99 352
+#done 559
+#done 560
+561 38402541 21 28 200 312 | 15 65 156 325
+#done 561
+#done 562
+#done 563
+#done 564
+#done 565
+566 31323656 30 52 198 286 | 36 40 210 280
+#done 566
+#done 567
+#done 568
+#done 569
+570 33242670 21 42 234 273 | 18 66 189 297
+#done 570
+#done 571
+#done 572
+573 33259707 21 45 234 273 | 18 75 180 300
+#done 573
+#done 574
+#done 575
+#done 576
+#done 577
+#done 578
+579 33301233 21 51 234 273 | 18 102 153 306
+#done 579
+580 31402000 30 100 150 300 | 40 50 210 280
+580 37279900 12 39 253 276 | 11 57 208 304
+#done 580
+#done 581
+#done 582
+#done 583
+#done 584
+#done 585
+586 31421656 50 52 198 286 | 36 100 150 300
+#done 586
+#done 587
+588 35237952 36 40 224 288 | 28 60 200 300
+#done 588
+#done 589
+#done 590
+591 37345581 12 50 253 276 | 11 90 175 315
+#done 591
+#done 592
+#done 593
+594 37369458 12 53 253 276 | 11 106 159 318
+#done 594
+#done 595
+596 35284544 36 48 224 288 | 28 84 176 308
+#done 596
+597 33327963 42 75 180 300 | 45 66 189 297
+#done 597
+#done 598
+#done 599
+600 35314560 36 52 224 288 | 28 104 156 312
+#done 600
+#done 601
+#done 602
+603 33369489 42 102 153 306 | 51 66 189 297
+#done 603
+#done 604
+#done 605
+606 33386526 51 75 180 300 | 45 102 153 306
+#done 606
+#done 607
+608 35326592 48 60 200 300 | 40 84 176 308
+#done 608
+#done 609
+#done 610
+#done 611
+612 35356608 52 60 200 300 | 40 104 156 312
+#done 612
+#done 613
+#done 614
+#done 615
+616 29431072 52 78 234 252 | 44 132 154 286
+616 41072416 26 44 260 286 | 20 110 156 330
+#done 616
+#done 617
+618 48792744 16 26 264 312 | 18 22 272 306
+#done 618
+619 37403569 50 57 208 304 | 39 90 175 315
+#done 619
+620 35403200 48 104 156 312 | 52 84 176 308
+#done 620
+#done 621
+622 37427446 53 57 208 304 | 39 106 159 318
+#done 622
+#done 623
+#done 624
+#done 625
+#done 626
+#done 627
+#done 628
+#done 629
+#done 630
+#done 631
+#done 632
+633 37493127 53 90 175 315 | 50 106 159 318
+#done 633
+#done 634
+#done 635
+#done 636
+#done 637
+638 41796062 44 55 231 308 | 33 110 165 330
+#done 638
+#done 639
+#done 640
+#done 641
+#done 642
+#done 643
+#done 644
+#done 645
+#done 646
+#done 647
+#done 648
+#done 649
+#done 650
+#done 651
+#done 652
+#done 653
+654 48977208 16 116 174 348 | 18 58 272 306
+#done 654
+#done 655
+656 48998096 18 60 272 306 | 16 140 150 350
+#done 656
+#done 657
+#done 658
+#done 659
+660 48983760 22 116 174 348 | 26 58 264 312
+#done 660
+#done 661
+662 49004648 22 140 150 350 | 26 60 264 312
+#done 662
+#done 663
+#done 664
+#done 665
+#done 666
+667 55455001 23 39 299 306 | 17 138 144 368
+#done 667
+#done 668
+#done 669
+#done 670
+#done 671
+#done 672
+#done 673
+#done 674
+#done 675
+676 61052992 32 128 132 384 | 42 56 204 374
+#done 676
+#done 677
+#done 678
+#done 679
+#done 680
+#done 681
+#done 682
+#done 683
+#done 684
+685 48583405 51 105 184 345 | 56 85 204 340
+#done 685
+#done 686
+687 56901483 25 84 221 357 | 30 52 275 330
+#done 687
+688 45769984 44 132 176 336 | 56 72 252 308
+#done 688
+#done 689
+690 52682130 33 63 297 297 | 27 153 153 357
+#done 690
+#done 691
+#done 692
+#done 693
+#done 694
+#done 695
+696 54262656 48 60 252 336 | 36 120 180 360
+696 56987856 30 61 275 330 | 25 122 183 366
+#done 696
+#done 697
+698 49189112 58 140 150 350 | 60 116 174 348
+698 57010922 30 63 275 330 | 25 144 161 368
+#done 698
+699 82299609 22 50 209 418 | 19 85 170 425
+#done 699
+#done 700
+#done 701
+702 68704038 19 35 306 342 | 17 45 280 360
+#done 702
+#done 703
+704 74740688 11 28 308 357 | 9 68 231 396
+#done 704
+#done 705
+706 68720482 19 39 306 342 | 17 52 273 364
+#done 706
+#done 707
+#done 708
+#done 709
+#done 710
+#done 711
+#done 712
+#done 713
+714 33314904 90 130 234 260 | 84 168 182 280
+#done 714
+#done 715
+#done 716
+717 68786163 19 50 306 342 | 17 75 250 375
+#done 717
+#done 718
+#done 719
+720 52392960 64 64 296 296 | 44 148 176 352
+#done 720
+#done 721
+#done 722
+723 57112839 52 122 183 366 | 61 84 221 357
+#done 723
+724 42958144 76 99 264 285 | 64 160 180 320
+724 68758444 39 45 280 360 | 35 52 273 364
+#done 724
+725 57135905 63 84 221 357 | 52 144 161 368
+#done 725
+#done 726
+727 68877163 17 105 220 385 | 19 60 306 342
+#done 727
+#done 728
+#done 729
+#done 730
+731 35457767 110 114 247 260 | 99 132 225 275
+731 87982361 17 18 306 390 | 10 75 221 425
+#done 731
+732 68935788 17 130 195 390 | 19 65 306 342
+#done 732
+733 68948659 17 138 187 391 | 19 66 306 342
+#done 733
+734 57222278 63 122 183 366 | 61 144 161 368
+#done 734
+735 68824125 35 75 250 375 | 45 50 280 360
+#done 735
+#done 736
+#done 737
+#done 738
+739 68840569 50 52 273 364 | 39 75 250 375
+#done 739
+#done 740
+#done 741
+#done 742
+#done 743
+#done 744
+745 68915125 35 105 220 385 | 45 60 280 360
+#done 745
+#done 746
+#done 747
+#done 748
+749 68931569 52 60 273 364 | 39 105 220 385
+#done 749
+750 68973750 45 65 280 360 | 35 130 195 390
+#done 750
+751 68986621 35 138 187 391 | 45 66 280 360
+#done 751
+#done 752
+#done 753
+754 68990194 52 65 273 364 | 39 130 195 390
+754 70790824 24 130 210 390 | 26 84 280 364
+#done 754
+755 69003065 52 66 273 364 | 39 138 187 391
+#done 755
+#done 756
+#done 757
+#done 758
+#done 759
+760 68997250 50 105 220 385 | 60 75 250 375
+760 78797440 28 56 312 364 | 24 88 252 396
+#done 760
+#done 761
+#done 762
+#done 763
+764 78837824 28 60 312 364 | 24 100 240 400
+#done 764
+765 69055875 50 130 195 390 | 65 75 250 375
+#done 765
+766 69068746 50 138 187 391 | 66 75 250 375
+#done 766
+#done 767
+768 79110144 22 66 330 350 | 20 100 252 396
+#done 768
+#done 769
+#done 770
+#done 771
+772 78936256 28 68 312 364 | 24 136 204 408
+#done 772
+#done 773
+774 86582358 33 156 156 429 | 51 51 264 408
+#done 774
+775 69146875 65 105 220 385 | 60 130 195 390
+#done 775
+776 69159746 60 138 187 391 | 66 105 220 385
+#done 776
+777 97295751 13 42 323 399 | 14 34 351 378
+#done 777
+#done 778
+779 91915559 35 84 231 429 | 44 55 260 420
+#done 779
+#done 780
+781 69218371 65 138 187 391 | 66 130 195 390
+#done 781
+#done 782
+#done 783
+#done 784
+#done 785
+#done 786
+#done 787
+#done 788
+#done 789
+#done 790
+#done 791
+#done 792
+#done 793
+#done 794
+#done 795
+796 78999616 56 100 240 400 | 60 88 252 396
+#done 796
+#done 797
+798 77712552 52 168 170 408 | 70 78 260 390
+#done 798
+#done 799
+#done 800
+#done 801
+#done 802
+#done 803
+804 79098048 56 136 204 408 | 68 88 252 396
+#done 804
+#done 805
+#done 806
+#done 807
+808 79138432 68 100 240 400 | 60 136 204 408
+#done 808
+#done 809
+#done 810
+#done 811
+812 86167088 42 140 210 420 | 56 70 294 392
+#done 812
+#done 813
+#done 814
+#done 815
+816 97645464 14 73 351 378 | 13 146 219 438
+#done 816
+#done 817
+818 97678322 14 75 351 378 | 13 165 200 440
+#done 818
+#done 819
+#done 820
+#done 821
+#done 822
+#done 823
+#done 824
+#done 825
+#done 826
+#done 827
+#done 828
+#done 829
+#done 830
+#done 831
+#done 832
+#done 833
+#done 834
+#done 835
+#done 836
+837 97682571 42 73 323 399 | 34 146 219 438
+#done 837
+838 101541592 48 70 300 420 | 50 66 304 418
+#done 838
+839 97715429 42 75 323 399 | 34 165 200 440
+#done 839
+#done 840
+#done 841
+#done 842
+#done 843
+#done 844
+#done 845
+#done 846
+#done 847
+#done 848
+849 105717339 54 60 315 420 | 45 78 297 429
+#done 849
+#done 850
+#done 851
+#done 852
+#done 853
+#done 854
+#done 855
+#done 856
+#done 857
+#done 858
+#done 859
+860 89394500 55 165 220 420 | 70 90 315 385
+#done 860
+#done 861
+#done 862
+#done 863
+#done 864
+#done 865
+#done 866
+867 107526753 55 87 290 435 | 58 80 297 432
+#done 867
+#done 868
+869 107547641 60 80 297 432 | 55 92 285 437
+#done 869
+#done 870
+#done 871
+872 107576378 60 87 290 435 | 58 92 285 437
+#done 872
+#done 873
+#done 874
+#done 875
+#done 876
+#done 877
+878 98065142 75 146 219 438 | 73 165 200 440
+#done 878
+#done 879
+#done 880
+#done 881
+#done 882
+#done 883
+#done 884
+#done 885
+#done 886
+#done 887
+#done 888
+#done 889
+#done 890
+#done 891
+#done 892
+#done 893
+#done 894
+#done 895
+#done 896
+#done 897
+#done 898
+#done 899
+900 102330000 80 80 370 370 | 55 185 220 440
+#done 900
+#done 901
+#done 902
+#done 903
+#done 904
+#done 905
+#done 906
+#done 907
+#done 908
+#done 909
+#done 910
+#done 911
+#done 912
+#done 913
+#done 914
+#done 915
+#done 916
+#done 917
+#done 918
+#done 919
+#done 920
+#done 921
+#done 922
+#done 923
+924 99329868 78 117 351 378 | 66 198 231 429
+#done 924
+#done 925
+#done 926
+#done 927
+#done 928
+#done 929
+#done 930
+#done 931
+#done 932
+#done 933
+#done 934
+#done 935
+#done 936
+#done 937
+#done 938
+#done 939
+#done 940
+#done 941
+#done 942
+#done 943
+#done 944
+#done 945
+#done 946
+#done 947
+#done 948
+#done 949
+#done 950
+#done 951
+#done 952
+#done 953
+#done 954
+#done 955
+#done 956
+#done 957
+#done 958
+#done 959
+#done 960
+#done 961
+#done 962
+#done 963
+#done 964
+#done 965
+#done 966
+#done 967
+#done 968
+#done 969
+#done 970
+#done 971
+#done 972
+#done 973
+#done 974
+#done 975
+#done 976
+#done 977
+#done 978
+#done 979
+#done 980
+#done 981
+#done 982
+#done 983
+#done 984
+#done 985
+#done 986
+987 81104751 143 200 280 364 | 154 175 308 350
+#done 987
+#done 988
+#done 989
+#done 990
+#done 991
+#done 992
+#done 993
+#done 994
+#done 995
+#done 996
+#done 997
+#done 998
+#done 999
+#done 1000
+#done 1001
+#done 1002
+#done 1003
+#done 1004
+#done 1005
+#done 1006
+#done 1007
+#done 1008
+#done 1009
+#done 1010
+#done 1011
+#done 1012
+#done 1013
+#done 1014
+#done 1015
+#done 1016
+#done 1017
+#done 1018
+#done 1019
+#done 1020
+#done 1021
+#done 1022
+#done 1023
+#done 1024
+#done 1025
+#done 1026
+#done 1027
+#done 1028
+#done 1029
+#done 1030
+#done 1031
+#done 1032
+#done 1033
+#done 1034
+#done 1035
+#done 1036
+#done 1037
+#done 1038
+#done 1039
+#done 1040
+#done 1041
+#done 1042
+#done 1043
+#done 1044
+#done 1045
+#done 1046
+#done 1047
+#done 1048
+#done 1049
+#done 1050
+#done 1051
+#done 1052
+#done 1053
+#done 1054
+#done 1055
+#done 1056
+#done 1057
+#done 1058
+#done 1059
+#done 1060
+#done 1061
+#done 1062
+#done 1063
+#done 1064
+#done 1065
+#done 1066
+#done 1067
+#done 1068
+#done 1069
+#done 1070
+1071 112437801 126 252 273 420 | 135 195 351 390
+#done 1071
+#done 1072
+#done 1073
+#done 1074
+#done 1075
+#done 1076
+#done 1077
+#done 1078
+#done 1079
+#done 1080
+#done 1081
+#done 1082
+#done 1083
+#done 1084
+#done 1085
+#done 1086
+#done 1087
+#done 1088
+#done 1089
+#done 1090
+#done 1091
+#done 1092
+#done 1093
+#done 1094
+#done 1095
+#done 1096
+#done 1097
+#done 1098
+#done 1099
+#done 1100
+#done 1101
+#done 1102
+#done 1103
+#done 1104
+#done 1105
+#done 1106
+#done 1107
+#done 1108
+#done 1109
+#done 1110
+#done 1111
+#done 1112
+#done 1113
+#done 1114
+#done 1115
+#done 1116
+#done 1117
+#done 1118
+#done 1119
+#done 1120
+#done 1121
+#done 1122
+#done 1123
+#done 1124
+#done 1125
+#done 1126
+#done 1127
+#done 1128
+#done 1129
+#done 1130
+#done 1131
+#done 1132
+#done 1133
+#done 1134
+#done 1135
+#done 1136
+#done 1137
+#done 1138
+#done 1139
+#done 1140
+#done 1141
+#done 1142
+#done 1143
+#done 1144
+#done 1145
+#done 1146
+#done 1147
+#done 1148
+#done 1149
+#done 1150
+#done 1151
+#done 1152
+#done 1153
+#done 1154
+#done 1155
+#done 1156
+#done 1157
+#done 1158
+#done 1159
+#done 1160
+#done 1161
+#done 1162
+#done 1163
+#done 1164
+#done 1165
+#done 1166
+#done 1167
+#done 1168
+#done 1169
+#done 1170
+#done 1171
+#done 1172
+#done 1173
+#done 1174
+#done 1175
+#done 1176
+#done 1177
+#done 1178
+#done 1179
+#done 1180
+#done 1181
+#done 1182
+#done 1183
+#done 1184
+#done 1185
+#done 1186
+#done 1187
+#done 1188
+#done 1189
+#done 1190
+#done 1191
+#done 1192
+#done 1193
+#done 1194
+#done 1195
+#done 1196
+#done 1197
+#done 1198
+#done 1199
+#done 1200
+#done 1201
+#done 1202
+#done 1203
+#done 1204
+#done 1205
+#done 1206
+#done 1207
+#done 1208
+#done 1209
+#done 1210
+#done 1211
+#done 1212
+#done 1213
+#done 1214
+#done 1215
+#done 1216
+#done 1217
+#done 1218
+#done 1219
+#done 1220
+#done 1221
+#done 1222
+#done 1223
+#done 1224
+#done 1225
+#done 1226
+#done 1227
+#done 1228
+#done 1229
+#done 1230
+#done 1231
+#done 1232
+#done 1233
+#done 1234
+#done 1235
+#done 1236
+#done 1237
+#done 1238
+#done 1239
+#done 1240
+#done 1241
+#done 1242
+#done 1243
+#done 1244
+#done 1245
+#done 1246
+#done 1247
+#done 1248
+#done 1249
+#done 1250
+#done 1251
+#done 1252
+#done 1253
+#done 1254
+#done 1255
+#done 1256
+#done 1257
+#done 1258
+#done 1259
+#done 1260
+#done 1261
+#done 1262
+#done 1263
+#done 1264
+#done 1265
+#done 1266
+#done 1267
+#done 1268
+#done 1269
+#done 1270
+#done 1271
+#done 1272
+#done 1273
+#done 1274
+#done 1275
+#done 1276
+#done 1277
+#done 1278
+#done 1279
+#done 1280
+#done 1281
+#done 1282
+#done 1283
+#done 1284
+#done 1285
+#done 1286
+#done 1287
+#done 1288
+#done 1289
+#done 1290
+#done 1291
+#done 1292
+#done 1293
+#done 1294
+#done 1295
+#done 1296
+#done 1297
+#done 1298
+#done 1299
+#done 1300
+#done 1301
+#done 1302
+#done 1303
+#done 1304
+#done 1305
+#done 1306
+#done 1307
+#done 1308
+#done 1309
+#done 1310
+#done 1311
+#done 1312
+#done 1313
+#done 1314
+#done 1315
+#done 1316
+#done 1317
+#done 1318
+#done 1319
+#done 1320
+#done 1321
+#done 1322
+#done 1323
+#done 1324
+#done 1325
+#done 1326
+#done 1327
+#done 1328
+#done 1329
+#done 1330
+#done 1331
+#done 1332
+#done 1333
+#done 1334
+#done 1335
+#done 1336
+#done 1337
+#done 1338
+#done 1339
+#done 1340
+#done 1341
+#done 1342
+#done 1343
+#done 1344
+#done 1345
+#done 1346
+#done 1347
+#done 1348
+#done 1349
+#done 1350
+#done 1351
+#done 1352
+#done 1353
+#done 1354
+#done 1355
+#done 1356
+#done 1357
+#done 1358
+#done 1359
+#done 1360
+#done 1361
+#done 1362
+#done 1363
+#done 1364
+#done 1365
+#done 1366
+#done 1367
+#done 1368
+#done 1369
+#done 1370
+#done 1371
+#done 1372
+#done 1373
+#done 1374
+#done 1375
+#done 1376
+#done 1377
+#done 1378
+#done 1379
+#done 1380
+#done 1381
+#done 1382
+#done 1383
+#done 1384
+#done 1385
+#done 1386
+#done 1387
+#done 1388
+#done 1389
+#done 1390
+#done 1391
+#done 1392
+#done 1393
+#done 1394
+#done 1395
+#done 1396
+#done 1397
+#done 1398
+#done 1399
+#done 1400
+#done 1401
+#done 1402
+#done 1403
+#done 1404
+#done 1405
+#done 1406
+#done 1407
+#done 1408
+#done 1409
+#done 1410
+#done 1411
+#done 1412
+#done 1413
+#done 1414
+#done 1415
+#done 1416
+#done 1417
+#done 1418
+#done 1419
+#done 1420
+#done 1421
+#done 1422
+#done 1423
+#done 1424
+#done 1425
+#done 1426
+#done 1427
+#done 1428
+#done 1429
+#done 1430
+#done 1431
+#done 1432
+#done 1433
+#done 1434
+#done 1435
+#done 1436
+#done 1437
+#done 1438
+#done 1439
+#done 1440
+#done 1441
+#done 1442
+#done 1443
+#done 1444
+#done 1445
+#done 1446
+#done 1447
+#done 1448
+#done 1449
+#done 1450
+#done 1451
+#done 1452
+#done 1453
+#done 1454
+#done 1455
+#done 1456
+#done 1457
+#done 1458
+#done 1459
+#done 1460
+#done 1461
+#done 1462
+#done 1463
+#done 1464
+#done 1465
+#done 1466
+#done 1467
+#done 1468
+#done 1469
+#done 1470
+#done 1471
+#done 1472
+#done 1473
+#done 1474
+#done 1475
+#done 1476
+#done 1477
+#done 1478
+#done 1479
+#done 1480
+#done 1481
+#done 1482
+#done 1483
+#done 1484
+#done 1485
+#done 1486
+#done 1487
+#done 1488
+#done 1489
+#done 1490
+#done 1491
+#done 1492
+#done 1493
+#done 1494
+#done 1495
+#done 1496
+#done 1497
+#done 1498
+#done 1499
+#done 1500
+#done 1501
+#done 1502
+#done 1503
+#done 1504
+#done 1505
+#done 1506
+#done 1507
+#done 1508
+#done 1509
+#done 1510
+#done 1511
+#done 1512
+#done 1513
+#done 1514
+#done 1515
+#done 1516
+#done 1517
+#done 1518
+#done 1519
+#done 1520
+#done 1521
+#done 1522
+#done 1523
+#done 1524
+#done 1525
+#done 1526
+#done 1527
+#done 1528
+#done 1529
+#done 1530
+#done 1531
+#done 1532
+#done 1533
+#done 1534
+#done 1535
+#done 1536
+#done 1537
+#done 1538
+#done 1539
+#done 1540
+#done 1541
+#done 1542
+#done 1543
+#done 1544
+#done 1545
+#done 1546
+#done 1547
+#done 1548
+#done 1549
+#done 1550
+#done 1551
+#done 1552
+#done 1553
+#done 1554
+#done 1555
+#done 1556
+#done 1557
+#done 1558
+#done 1559
+#done 1560
+#done 1561
+#done 1562
+#done 1563
+#done 1564
+#done 1565
+#done 1566
+#done 1567
+#done 1568
+#done 1569
+#done 1570
+#done 1571
+#done 1572
+#done 1573
+#done 1574
+#done 1575
+#done 1576
+#done 1577
+#done 1578
+#done 1579
+#done 1580
+#done 1581
+#done 1582
+#done 1583
+#done 1584
+#done 1585
+#done 1586
+#done 1587
+#done 1588
+#done 1589
+#done 1590
+#done 1591
+#done 1592
+#done 1593
+#done 1594
+#done 1595
+#done 1596
+#done 1597
+#done 1598
+#done 1599
+#done 1600
+#done 1601
+#done 1602
+#done 1603
+#done 1604
+#done 1605
+#done 1606
+#done 1607
+#done 1608
+#done 1609
+#done 1610
+#done 1611
+#done 1612
+#done 1613
+#done 1614
+#done 1615
+#done 1616
+#done 1617
+#done 1618
+#done 1619
+#done 1620
+#done 1621
+#done 1622
+#done 1623
+#done 1624
+#done 1625
+#done 1626
+#done 1627
+#done 1628
+#done 1629
+#done 1630
+#done 1631
+#done 1632
+#done 1633
+#done 1634
+#done 1635
+#done 1636
+#done 1637
+#done 1638
+#done 1639
+#done 1640
+#done 1641
+#done 1642
+#done 1643
+#done 1644
+#done 1645
+#done 1646
+#done 1647
+#done 1648
+#done 1649
+#done 1650
+#done 1651
+#done 1652
+#done 1653
+#done 1654
+#done 1655
+#done 1656
+#done 1657
+#done 1658
+#done 1659
+#done 1660
+#done 1661
+#done 1662
+#done 1663
+#done 1664
+#done 1665
+#done 1666
+#done 1667
+#done 1668
+#done 1669
+#done 1670
+#done 1671
+#done 1672
+#done 1673
+#done 1674
+#done 1675
+#done 1676
+#done 1677
+#done 1678
+#done 1679
+#done 1680
+#done 1681
+#done 1682
+#done 1683
+#done 1684
+#done 1685
+#done 1686
+#done 1687
+#done 1688
+#done 1689
+#done 1690
+#done 1691
+#done 1692
+#done 1693
+#done 1694
+#done 1695
+#done 1696
+#done 1697
+#done 1698
+#done 1699
+#done 1700
+#done 1701
+#done 1702
+#done 1703
+#done 1704
+#done 1705
+#done 1706
+#done 1707
+#done 1708
+#done 1709
+#done 1710
+#done 1711
+#done 1712
+#done 1713
+#done 1714
+#done 1715
+#done 1716
+#done 1717
+#done 1718
+#done 1719
+#done 1720
+#done 1721
+#done 1722
+#done 1723
+#done 1724
+#done 1725
+#done 1726
+#done 1727
+#done 1728
+#done 1729
+#done 1730
+#done 1731
+#done 1732
+#done 1733
+#done 1734
+#done 1735
+#done 1736
+#done 1737
+#done 1738
+#done 1739
+#done 1740
+#done 1741
+#done 1742
+#done 1743
+#done 1744
+#done 1745
+#done 1746
+#done 1747
+#done 1748
+#done 1749
+#done 1750
+#done 1751
+#done 1752
+#done 1753
+#done 1754
+#done 1755
+#done 1756
+#done 1757
+#done 1758
+#done 1759
+#done 1760
+# N=440 multisets=1583091510 collisions=193

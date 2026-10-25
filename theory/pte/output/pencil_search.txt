@@ -1,0 +1,5 @@
+m=4 (L=3): 1229952 sets with e1=0, |entries|<=130; 25 distinct pencil configurations (size 8, iota 0); with a padding point +-1: 0
+  smallest: [(-28, -21, -5, -4, 3, 10, 15, 30), (-72, -56, -10, -9, 7, 15, 50, 75), (-75, -50, -15, -12, 10, 21, 44, 77)]
+m=5 (L=4): 1592 odd symmetric 5-sets, |entries|<=200; 0 pencil configurations
+sharpness of Theorem A at n=4: 61 distinct genus-0 pairs (4 vs 4 cone points) sharing exactly 3 coefficients (actual b_l), incl. the 61 stored from the N4=220 run
+ALL CHECKS PASSED

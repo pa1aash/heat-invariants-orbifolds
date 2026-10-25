@@ -1,0 +1,62 @@
+PASS the list has 38 distinct sums, largest 557
+PASS (a) S = 3: no collision
+PASS (a) S = 4: no collision
+PASS (a) S = 5: no collision
+PASS (a) S = 6: no collision
+PASS (a) S = 7: no collision
+PASS (a) S = 8: no collision
+PASS (a) S = 9: no collision
+PASS (a) S = 10: no collision
+PASS (a) S = 11: no collision
+PASS (a) S = 12: no collision
+PASS (a) S = 13: no collision
+PASS (a) S = 14: no collision
+PASS (a) S = 15: no collision
+PASS (a) S = 16: no collision
+PASS (a) S = 17: no collision
+PASS (a) S = 19: 20 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 21: 26 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 22: 29 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 23: 32 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 24: 36 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 25: 39 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 27: 47 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 28: 51 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 29: 55 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 30: 60 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 33: 74 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 41: 119 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 44: 139 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 46: 153 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 47: 160 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 48: 168 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 49: 175 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 50: 183 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 51: 191 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 59: 260 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 65: 319 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 67: 340 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 81: 506 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 99: 767 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 115: 1044 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 119: 1120 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 123: 1199 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 125: 1239 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 173: 2407 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 199: 3200 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 203: 3332 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 223: 4032 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 235: 4484 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 243: 4799 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 251: 5124 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 307: 7700 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 329: 8855 hyperbolic triads, all reciprocal sums distinct
+PASS (a) S = 557: 25575 hyperbolic triads, all reciprocal sums distinct
+PASS (b) all 4745 sums in [18, 4800] outside the list carry a verified collision
+PASS (b) the committed enumeration lists no collision at any of the 38 sums
+PASS (b) 4745 + 38 = 4783 sums in [18, 4800]
+PASS (c) 3962 sums get a witness by scaling a smaller one; 783 need their own
+     primitive witness sums and witnesses: 18: (2, 8, 8)~(3, 3, 12); 20: (4, 8, 8)~(5, 5, 10); 26: (4, 10, 12)~(5, 6, 15); 31: (4, 9, 18)~(5, 6, 20); 32: (4, 14, 14)~(5, 7, 20); 34: (6, 14, 14)~(7, 9, 18); 35: (5, 15, 15)~(7, 7, 21); 37: (2, 15, 20)~(3, 4, 30); 38: (3, 14, 21)~(4, 6, 28); 39: (7, 14, 18)~(9, 9, 21); 42: (9, 15, 18)~(10, 12, 20); 43: (4, 15, 24)~(5, 8, 30); 45: (3, 21, 21)~(5, 5, 35); 53: (3, 20, 30)~(4, 7, 42); 55: (7, 20, 28)~(10, 10, 35); 56: (14, 21, 21)~(16, 16, 24); 57: (6, 15, 36)~(8, 9, 40); 58: (9, 14, 35)~(10, 12, 36); 61: (5, 21, 35)~(7, 9, 45); 63: (6, 24, 33)~(8, 11, 44); 66: (11, 22, 33)~(12, 18, 36); 69: (14, 20, 35)~(15, 18, 36); 71: (5, 22, 44)~(8, 8, 55); 73: (5, 28, 40)~(7, 10, 56); 75: (9, 30, 36)~(10, 20, 45); 77: (7, 35, 35)~(11, 11, 55); 79: (14, 30, 35)~(15, 24, 40); 82: (7, 30, 45)~(8, 18, 56); 83: (7, 38, 38)~(8, 19, 56); 85: (4, 21, 60)~(5, 10, 70); 87: (7, 35, 45)~(9, 15, 63); 88: (7, 39, 42)~(10, 13, 65); 89: (4, 40, 45)~(5, 12, 72); 91: (3, 40, 48)~(5, 6, 80); 92: (8, 40, 44)~(11, 15, 66); 94: (9, 40, 45)~(10, 24, 60); 95: (5, 35, 55)~(7, 11, 77); 97: (7, 42, 48)~(9, 16, 72); 98: (2, 36, 60)~(3, 5, 90); 101: (3, 35, 63)~(5, 6, 90); 103: (10, 45, 48)~(15, 16, 72); 107: (5, 30, 72)~(8, 9, 90); 109: (9, 45, 55)~(11, 21, 77); 113: (8, 28, 77)~(11, 14, 88); 118: (8, 55, 55)~(10, 20, 88); 121: (9, 28, 84)~(10, 21, 90); 127: (10, 40, 77)~(11, 28, 88); 131: (3, 32, 96)~(5, 6, 120); 133: (3, 40, 90)~(4, 9, 120); 134: (20, 44, 70)~(22, 35, 77); 137: (9, 56, 72)~(12, 20, 105); 139: (4, 63, 72)~(5, 14, 120); 141: (15, 36, 90)~(20, 22, 99); 143: (11, 44, 88)~(13, 26, 104); 145: (20, 50, 75)~(24, 33, 88); 147: (12, 45, 90)~(14, 28, 105); 149: (14, 63, 72)~(20, 24, 105); 151: (8, 63, 80)~(9, 30, 112); 153: (10, 39, 104)~(13, 20, 120); 157: (9, 40, 108)~(10, 27, 120) ...
+PASS (c) 783 primitive witness pairs written to collision_witnesses.csv
+
+59 checks, 0 failures

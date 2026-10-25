@@ -1,0 +1,32 @@
+525 area values s = -chi in (0, 7/5] from g<=2, n<=4, orders<=12
+  ... 0 classes done (s = 1/42, |class| = 1)
+  ... 100 classes done (s = 31/60, |class| = 7)
+  ... 200 classes done (s = 479/660, |class| = 10)
+  ... 300 classes done (s = 47/44, |class| = 5)
+  ... 400 classes done (s = 41/33, |class| = 43)
+  ... 500 classes done (s = 577/420, |class| = 142)
+33946 signatures in 525 complete area classes; 2310 pairs sharing >= 2 coefficients, all checked: Theorem S (sharp and area forms) holds
+max_O K_mult over the class, histogram: {1: 17, 2: 311, 3: 197}
+bound floor(2s)+4 minus max K_mult, histogram: {1: 4, 2: 142, 3: 249, 4: 129, 5: 1}
+classes with the largest max K_mult:
+  s=1/4: |class|=7, bound=4, max K_mult=3, max K_n=2, max K_g=1; e.g. (0, (2, 8, 8)) ~ (0, (3, 3, 12))
+  s=23/60: |class|=7, bound=4, max K_mult=3, max K_n=1, max K_g=1; e.g. (0, (2, 15, 20)) ~ (0, (3, 4, 30))
+  s=2/5: |class|=11, bound=4, max K_mult=3, max K_n=3, max K_g=1; e.g. (0, (5, 5, 5)) ~ (0, (2, 2, 2, 10))
+  s=41/90: |class|=10, bound=4, max K_mult=3, max K_n=1, max K_g=1; e.g. (0, (2, 36, 60)) ~ (0, (3, 5, 90))
+  s=1/2: |class|=15, bound=5, max K_mult=3, max K_n=2, max K_g=2; e.g. (0, (4, 8, 8)) ~ (0, (5, 5, 10))
+  s=23/42: |class|=6, bound=5, max K_mult=3, max K_n=1, max K_g=1; e.g. (0, (3, 14, 21)) ~ (0, (4, 6, 28))
+  s=17/30: |class|=11, bound=5, max K_mult=3, max K_n=2, max K_g=1; e.g. (0, (4, 10, 12)) ~ (0, (5, 6, 15))
+  s=4/7: |class|=9, bound=5, max K_mult=3, max K_n=1, max K_g=1; e.g. (0, (3, 21, 21)) ~ (0, (5, 5, 35))
+  s=7/12: |class|=20, bound=5, max K_mult=3, max K_n=2, max K_g=1; e.g. (0, (3, 20, 30)) ~ (0, (4, 7, 42))
+  s=17/28: |class|=12, bound=5, max K_mult=3, max K_n=2, max K_g=1; e.g. (0, (4, 14, 14)) ~ (0, (5, 7, 20))
+  s=11/18: |class|=15, bound=5, max K_mult=3, max K_n=3, max K_g=1; e.g. (0, (3, 27, 54)) ~ (0, (4, 8, 72))
+  s=28/45: |class|=14, bound=5, max K_mult=3, max K_n=1, max K_g=1; e.g. (0, (3, 35, 63)) ~ (0, (5, 6, 90))
+largest K_g (genus) over all classes examined: 3; largest K_n (cone count, genus 0): 3
+  K_g=3 at s=14/15 (class size 209)
+  K_g=3 at s=19/20 (class size 307)
+  K_g=3 at s=23/24 (class size 386)
+  K_g=2 at s=1/2 (class size 15)
+  K_g=2 at s=2/3 (class size 28)
+area_classes.py: all assertions passed
+python3 -u area_classes.py  47.38s user 0.45s system 91% cpu 52.040 total
+EXIT 0

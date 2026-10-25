@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.venv-*/
+theory/pte/search_T3_modular
+theory/pte/search_T3

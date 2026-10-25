@@ -1,0 +1,15 @@
+{
+ "problem": "(3,3,12) Neumann, h=0.05, p=10, NEV=1300, k=200",
+ "n": 1434,
+ "ndof": 35076,
+ "max_abs_diff": 2.2049789549782872e-08,
+ "max_rel_diff": 1.0121501816048132e-12,
+ "max_rel_diff_first500": 2.093654971662682e-14,
+ "max_diff_over_err_estimate": 0.1527462311038987,
+ "median_diff_over_err_estimate": 0.00018817131760819205,
+ "max_diff_over_err_conservative": 1.5278298504015917,
+ "seconds": 232.40771532058716,
+ "threads": 16,
+ "machine": "Linux-6.8.0-139-generic-x86_64-with-glibc2.39",
+ "python": "3.13.7"
+}

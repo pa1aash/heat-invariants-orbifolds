@@ -1,0 +1,34 @@
+PASS (a) moment k=0: 0.0208333333333333
+PASS (a) moment k=1: 0.00364583333333333
+PASS (a) moment k=2: 0.00192212301587302
+PASS (a) moment k=3: 0.00206705729166667
+PASS (a) moment k=4: 0.00378048058712121
+PASS (a) moment k=5: 0.010541248437977
+PASS (a) moment k=6: 0.0416615804036458
+PASS (a) moment k=7: 0.221623138352936
+PASS (a) moment k=8: 1.52696551522383
+PASS (b) alpha_0 from the identity term = 1
+PASS (b) alpha_1 from the identity term = -1/3
+PASS (b) alpha_2 from the identity term = 1/15
+PASS (b) alpha_3 from the identity term = -4/315
+PASS (b) alpha_4 from the identity term = 1/315
+PASS (b) alpha_5 from the identity term = -4/3465
+PASS (b) alpha_6 from the identity term = 382/675675
+PASS (b) alpha_7 from the identity term = -232/675675
+PASS (b) alpha_8 from the identity term = 2833/11486475
+PASS (b) alpha_9 from the identity term = -560204/2749862115
+PASS (b) alpha_10 from the identity term = 13051226/68746552875
+PASS (b) alpha_11 from the identity term = -311192456/1581170716125
+PASS (b) alpha_12 from the identity term = 1064987954/4743512148375
+PASS (b) alpha_13 from the identity term = -37862152/135528918525
+PASS (b) alpha_14 from the identity term = 51783735644/137561852302875
+PASS (b) alpha_0..alpha_4 = 1, -1/3, 1/15, -4/315, 1/315 (manuscript)
+PASS (c) t=0.01: (I - series_(k<4))/(alpha_4 t^3) = 0.99638134
+PASS (c) t=0.005: (I - series_(k<4))/(alpha_4 t^3) = 0.99818626
+PASS (c) t=0.0025: (I - series_(k<4))/(alpha_4 t^3) = 0.99909202
+PASS (d) x=10: N(x) = 9 <= e Z(1/x) = 28.107388
+PASS (d) x=100: N(x) = 100 <= e Z(1/x) = 272.73609
+PASS (d) x=1000: N(x) = 1024 <= e Z(1/x) = 2719.1881
+PASS (d) x=10000: N(x) = 10000 <= e Z(1/x) = 27183.724
+
+32 checks, 0 failures

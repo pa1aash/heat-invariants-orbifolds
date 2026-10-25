@@ -1,0 +1,5 @@
+(A) identity term: series coefficients = Ucar alpha_nu exactly, nu = 0..15
+(C) dim T = 6g-6+2n >= 0, even; zero exactly for (g,n) = (0,3) among hyperbolic signatures
+(D) heat test function normalisation (DS), Marklof (192) exponent misprint, completing the square, erfc closed form, monotonicity window, step-3 and Theorem 3.4(b) bounds: OK
+(B) elliptic term: Taylor coefficients = Ucar beta_nu(m) exactly, nu <= 5, m in (2, 3, 4, 5, 6, 8, 12)
+ALL LOCALITY CHECKS PASSED

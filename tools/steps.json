@@ -1,0 +1,638 @@
+[
+ {
+  "name": "Orlando's formula",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/audibility",
+  "cmd": "$PYTHON orlando_check.py",
+  "minutes": 0.1
+ },
+ {
+  "name": "Theorem 3.3: the linear system",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/audibility",
+  "cmd": "$PYTHON linear_system.py",
+  "minutes": 0.12
+ },
+ {
+  "name": "Theorem 3.2 and Lemma 3.1: elimination",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/audibility",
+  "cmd": "$PYTHON verify_elimination.py",
+  "minutes": 1.03
+ },
+ {
+  "name": "Theorem 3.4 and Remark S8.4: sharpness search N=60",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/audibility",
+  "cmd": "rm -rf \"$LOGDIR/sharp60\" && cp -R . \"$LOGDIR/sharp60\" && (cd \"$LOGDIR/sharp60\" && $PYTHON sharpness_search.py 60 > /dev/null) && $PYTHON ../../tools/json_equal.py \"$LOGDIR/sharp60/sharpness_n5_N60.json\" sharpness_n5_N60.json --ignore wall_seconds",
+  "minutes": 0.17
+ },
+ {
+  "name": "cone coefficients p_l",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/cone-coefficients",
+  "cmd": "$PYTHON verify_cone_coefficients.py",
+  "minutes": 0.1
+ },
+ {
+  "name": "heat structure of a signature",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/signatures",
+  "cmd": "$PYTHON heat_structure.py",
+  "minutes": 0.1
+ },
+ {
+  "name": "cone count",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/signatures",
+  "cmd": "$PYTHON cone_count.py",
+  "minutes": 0.23
+ },
+ {
+  "name": "complete area classes",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/signatures",
+  "cmd": "$PYTHON area_classes.py",
+  "minutes": 0.4
+ },
+ {
+  "name": "genus separation",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/signatures",
+  "cmd": "$PYTHON genus.py",
+  "minutes": 1.37
+ },
+ {
+  "name": "trace formula terms (locality)",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/locality",
+  "cmd": "$PYTHON check_locality.py",
+  "minutes": 0.12
+ },
+ {
+  "name": "stability: front end",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/stability",
+  "cmd": "$PYTHON front_end.py",
+  "minutes": 0.1
+ },
+ {
+  "name": "stability: Lipschitz constants",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/stability",
+  "cmd": "$PYTHON lipschitz_e.py",
+  "minutes": 0.1
+ },
+ {
+  "name": "stability: Hoelder exponents of roots",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/stability",
+  "cmd": "$PYTHON roots_holder.py",
+  "minutes": 0.1
+ },
+ {
+  "name": "blind recovery from the computed spectra",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/stability/blind",
+  "cmd": "$PYTHON blind_pipeline.py",
+  "minutes": 0.22
+ },
+ {
+  "name": "stability constants zeta_n and sech^2 coefficients",
+  "targets": [
+   "verify"
+  ],
+  "dir": "checks/stability-constants",
+  "cmd": "$PYTHON check_setup.py",
+  "transcript": "checks/stability-constants/check_setup.txt",
+  "minutes": 0.3
+ },
+ {
+  "name": "first overlap and first collision (Section 5)",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/threshold",
+  "cmd": "$PYTHON threshold.py",
+  "minutes": 0.28
+ },
+ {
+  "name": "flat and spherical cases",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/curvature",
+  "cmd": "$PYTHON curvature_checks.py",
+  "minutes": 0.1
+ },
+ {
+  "name": "rank of C_{27/2} (PARI ellrank)",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/diophantine",
+  "cmd": "$PYTHON_PARI ranks.py",
+  "minutes": 0.1,
+  "needs": "pari"
+ },
+ {
+  "name": "computed spectra: committed data",
+  "targets": [
+   "verify"
+  ],
+  "dir": "numerics",
+  "cmd": "$PYTHON validate_committed.py --quick",
+  "minutes": 0.1
+ },
+ {
+  "name": "moduli family: committed data",
+  "targets": [
+   "verify"
+  ],
+  "dir": "numerics/moduli",
+  "cmd": "$PYTHON validate_committed.py --quick",
+  "minutes": 0.1
+ },
+ {
+  "name": "locality bound: overestimation ratios",
+  "targets": [
+   "verify"
+  ],
+  "dir": "numerics/moduli",
+  "cmd": "$PYTHON locality_ratio.py",
+  "minutes": 0.1
+ },
+ {
+  "name": "double-window recomputation: record",
+  "targets": [
+   "verify"
+  ],
+  "dir": "numerics",
+  "cmd": "$PYTHON rerun_double_window.py --verify-record",
+  "minutes": 0.1
+ },
+ {
+  "name": "proof check check_lemma25",
+  "targets": [
+   "verify"
+  ],
+  "dir": ".",
+  "cmd": "$PYTHON checks/proofs/check_lemma25.py",
+  "minutes": 0.15
+ },
+ {
+  "name": "proof check check_remark412",
+  "targets": [
+   "verify"
+  ],
+  "dir": ".",
+  "cmd": "$PYTHON checks/proofs/check_remark412.py",
+  "minutes": 0.1
+ },
+ {
+  "name": "proof check check_thm12iii",
+  "targets": [
+   "verify"
+  ],
+  "dir": ".",
+  "cmd": "$PYTHON checks/proofs/check_thm12iii.py",
+  "minutes": 0.1
+ },
+ {
+  "name": "proof check check_descent",
+  "targets": [
+   "verify"
+  ],
+  "dir": ".",
+  "cmd": "$PYTHON checks/proofs/check_descent.py",
+  "minutes": 0.1
+ },
+ {
+  "name": "proof check check_thm513",
+  "targets": [
+   "verify"
+  ],
+  "dir": ".",
+  "cmd": "$PYTHON checks/proofs/check_thm513.py",
+  "minutes": 0.1
+ },
+ {
+  "name": "proof check check_remark212",
+  "targets": [
+   "verify"
+  ],
+  "dir": ".",
+  "cmd": "$PYTHON checks/proofs/check_remark212.py",
+  "minutes": 0.1
+ },
+ {
+  "name": "proof check check_prop610",
+  "targets": [
+   "verify"
+  ],
+  "dir": ".",
+  "cmd": "$PYTHON checks/proofs/check_prop610.py",
+  "minutes": 0.1
+ },
+ {
+  "name": "proof check check_sharpness",
+  "targets": [
+   "verify"
+  ],
+  "dir": ".",
+  "cmd": "$PYTHON checks/proofs/check_sharpness.py",
+  "minutes": 0.1
+ },
+ {
+  "name": "PTE structure",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/pte",
+  "cmd": "$PYTHON structure.py",
+  "transcript": "theory/pte/output/structure.txt",
+  "minutes": 0.1
+ },
+ {
+  "name": "PTE growth",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/pte",
+  "cmd": "$PYTHON growth.py",
+  "transcript": "theory/pte/output/growth.txt",
+  "minutes": 0.1
+ },
+ {
+  "name": "PTE witnesses",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/pte",
+  "cmd": "$PYTHON witnesses.py",
+  "transcript": "theory/pte/output/witnesses.txt",
+  "minutes": 0.1
+ },
+ {
+  "name": "PTE real_shapes",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/pte",
+  "cmd": "$PYTHON real_shapes.py",
+  "transcript": "theory/pte/output/real_shapes.txt",
+  "minutes": 1.08
+ },
+ {
+  "name": "PTE search_T3_control",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/pte",
+  "cmd": "$PYTHON search_T3_control.py",
+  "transcript": "theory/pte/output/search_T3_control.txt",
+  "minutes": 4.6,
+  "needs": "cc"
+ },
+ {
+  "name": "PTE pencil_search",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/pte",
+  "cmd": "$PYTHON pencil_search.py",
+  "transcript": "theory/pte/output/pencil_search.txt",
+  "minutes": 2.43
+ },
+ {
+  "name": "PTE T3 modular record",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/pte",
+  "cmd": "$PYTHON search_T3_modular.py --check",
+  "minutes": 0.1
+ },
+ {
+  "name": "PTE T3 modular search to 220",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/pte",
+  "cmd": "$PYTHON search_T3_modular.py 220 4 > /dev/null",
+  "minutes": 1.52,
+  "needs": "cc"
+ },
+ {
+  "name": "bounded cone orders (Theorem 3.10)",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/msep",
+  "cmd": "$PYTHON verify.py",
+  "minutes": 1.92
+ },
+ {
+  "name": "variable curvature quadratic_form",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/varcurv",
+  "cmd": "$PYTHON quadratic_form.py",
+  "transcript": "theory/varcurv/quadratic_form_output.txt",
+  "minutes": 0.1
+ },
+ {
+  "name": "variable curvature top_coefficient",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/varcurv",
+  "cmd": "$PYTHON top_coefficient.py",
+  "transcript": "theory/varcurv/top_coefficient_output.txt",
+  "minutes": 0.38
+ },
+ {
+  "name": "variable curvature linear_part",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/varcurv",
+  "cmd": "$PYTHON linear_part.py",
+  "transcript": "theory/varcurv/linear_part_output.txt",
+  "minutes": 0.4
+ },
+ {
+  "name": "variable curvature obstruction_check",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/varcurv",
+  "cmd": "$PYTHON obstruction_check.py",
+  "transcript": "theory/varcurv/obstruction_check_output.txt",
+  "minutes": 0.1
+ },
+ {
+  "name": "variable curvature twisted_mp",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/varcurv",
+  "cmd": "$PYTHON twisted_mp.py",
+  "transcript": "theory/varcurv/twisted_mp_output.txt",
+  "minutes": 1.5
+ },
+ {
+  "name": "variable curvature rotsym_check",
+  "targets": [
+   "verify"
+  ],
+  "dir": "theory/varcurv",
+  "cmd": "$PYTHON rotsym_check.py",
+  "transcript": "theory/varcurv/rotsym_check_output.txt",
+  "minutes": 0.1
+ },
+ {
+  "name": "K_mult on the complete area classes",
+  "targets": [
+   "verify"
+  ],
+  "dir": "checks/pairs",
+  "cmd": "$PYTHON a1_fig2_kmult.py",
+  "transcript": "checks/pairs/output/a1_fig2_kmult.txt",
+  "minutes": 0.23
+ },
+ {
+  "name": "pencil witness counts",
+  "targets": [
+   "verify"
+  ],
+  "dir": "checks/pairs",
+  "cmd": "$PYTHON d1_pencil_counts.py",
+  "transcript": "checks/pairs/output/d1_pencil_counts.txt",
+  "minutes": 0.1
+ },
+ {
+  "name": "explicit pairs (Table S1)",
+  "targets": [
+   "verify"
+  ],
+  "dir": "checks/pairs",
+  "cmd": "$PYTHON d2_explicit_pairs.py",
+  "transcript": "checks/pairs/output/d2_explicit_pairs.txt",
+  "minutes": 0.63
+ },
+ {
+  "name": "degree-4 witnesses to 440: analysis",
+  "targets": [
+   "verify"
+  ],
+  "dir": "checks/witnesses4",
+  "cmd": "$PYTHON check_direct4.py",
+  "transcript": "checks/witnesses4/check_direct4.txt",
+  "minutes": 0.2
+ },
+ {
+  "name": "supplement tables S2-S4",
+  "targets": [
+   "tables"
+  ],
+  "dir": ".",
+  "cmd": "$PYTHON tools/make_tables.py --check",
+  "minutes": 0.1
+ },
+ {
+  "name": "supplement table S1 (pairs)",
+  "targets": [
+   "tables"
+  ],
+  "dir": "checks/pairs",
+  "cmd": "$PYTHON d2_explicit_pairs.py --check > /dev/null",
+  "minutes": 0.58
+ },
+ {
+  "name": "figure data F4 F7 F8",
+  "targets": [
+   "figures"
+  ],
+  "dir": ".",
+  "cmd": "$PYTHON figures/gen/gen_f4_area_classes.py && $PYTHON figures/gen/gen_f7_strata.py && $PYTHON figures/gen/gen_f8_recovery.py",
+  "minutes": 0.63
+ },
+ {
+  "name": "figure F2",
+  "targets": [
+   "figures"
+  ],
+  "dir": ".",
+  "cmd": "$PYTHON figures/src/F2.py",
+  "minutes": 0.1
+ },
+ {
+  "name": "figure F3",
+  "targets": [
+   "figures"
+  ],
+  "dir": ".",
+  "cmd": "$PYTHON figures/src/F3.py",
+  "minutes": 0.1
+ },
+ {
+  "name": "figure F4",
+  "targets": [
+   "figures"
+  ],
+  "dir": ".",
+  "cmd": "$PYTHON figures/src/F4.py",
+  "minutes": 0.1
+ },
+ {
+  "name": "figure F5",
+  "targets": [
+   "figures"
+  ],
+  "dir": ".",
+  "cmd": "$PYTHON figures/src/F5.py",
+  "minutes": 0.1
+ },
+ {
+  "name": "figure F7",
+  "targets": [
+   "figures"
+  ],
+  "dir": ".",
+  "cmd": "$PYTHON figures/src/F7.py",
+  "minutes": 0.1
+ },
+ {
+  "name": "figure F8",
+  "targets": [
+   "figures"
+  ],
+  "dir": ".",
+  "cmd": "$PYTHON figures/src/F8.py",
+  "minutes": 0.1
+ },
+ {
+  "name": "figures F1 F6: data assertions",
+  "targets": [
+   "figures"
+  ],
+  "dir": ".",
+  "cmd": "$PYTHON figures/src/F1.py --check && $PYTHON figures/src/F6.py --check",
+  "minutes": 0.1
+ },
+ {
+  "name": "figure F1: Blender render (scratch copy)",
+  "targets": [
+   "figures"
+  ],
+  "dir": ".",
+  "cmd": "rm -rf \"$LOGDIR/render-F1\" && mkdir -p \"$LOGDIR/render-F1\" && cp -R figures numerics theory \"$LOGDIR/render-F1/\" && cd \"$LOGDIR/render-F1\" && $PYTHON figures/src/F1.py && test -s figures/out/F1.pdf",
+  "minutes": 0.2,
+  "needs": "blender"
+ },
+ {
+  "name": "figure F6: Blender render (scratch copy)",
+  "targets": [
+   "figures"
+  ],
+  "dir": ".",
+  "cmd": "rm -rf \"$LOGDIR/render-F6\" && mkdir -p \"$LOGDIR/render-F6\" && cp -R figures numerics theory \"$LOGDIR/render-F6/\" && cd \"$LOGDIR/render-F6\" && $PYTHON figures/src/F6.py && test -s figures/out/F6.pdf",
+  "minutes": 0.38,
+  "needs": "blender"
+ },
+ {
+  "name": "Remark S8.4: no witness for n=5 with orders <= 120",
+  "targets": [
+   "full"
+  ],
+  "dir": "theory/audibility",
+  "cmd": "rm -rf \"$LOGDIR/sharp120\" && cp -R . \"$LOGDIR/sharp120\" && (cd \"$LOGDIR/sharp120\" && $PYTHON sharpness_search.py 120 > /dev/null) && $PYTHON ../../tools/json_equal.py \"$LOGDIR/sharp120/sharpness_n5_N120.json\" sharpness_n5_N120.json --ignore wall_seconds",
+  "minutes": 3.57
+ },
+ {
+  "name": "stability thresholds and certificates",
+  "targets": [
+   "full"
+  ],
+  "dir": "theory/stability",
+  "cmd": "$PYTHON threshold.py",
+  "minutes": 4.05
+ },
+ {
+  "name": "divergence of the heat coefficients",
+  "targets": [
+   "full"
+  ],
+  "dir": "theory/divergence",
+  "cmd": "$PYTHON divergence.py",
+  "minutes": 3.85
+ },
+ {
+  "name": "computed spectra: full validation",
+  "targets": [
+   "full"
+  ],
+  "dir": "numerics",
+  "cmd": "$PYTHON validate_committed.py",
+  "minutes": 0.17
+ },
+ {
+  "name": "moduli family: full validation",
+  "targets": [
+   "full"
+  ],
+  "dir": "numerics/moduli",
+  "cmd": "$PYTHON validate_committed.py",
+  "minutes": 0.27
+ },
+ {
+  "name": "degree-4 witnesses to 440: search from scratch",
+  "targets": [
+   "full"
+  ],
+  "dir": "checks/witnesses4",
+  "cmd": "cc -O2 -o \"$LOGDIR/direct4\" check_direct4.c && \"$LOGDIR/direct4\" 440 > \"$LOGDIR/direct4_N440.txt\" && cmp \"$LOGDIR/direct4_N440.txt\" direct4_N440.txt",
+  "minutes": 4.18,
+  "needs": "cc"
+ },
+ {
+  "name": "computed spectra: double-window re-solve (NGSolve)",
+  "targets": [
+   "full"
+  ],
+  "dir": "numerics",
+  "cmd": "$PYTHON_NUMERICS rerun_double_window.py --no-record \"$LOGDIR/rerun\"",
+  "minutes": 60,
+  "needs": "ngsolve"
+ }
+]

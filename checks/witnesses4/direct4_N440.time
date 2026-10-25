@@ -1,0 +1,1 @@
+nice -n 10 $SP/direct4 440 > direct4_N440.txt  491.01s user 5.29s system 71% cpu 11:37.79 total

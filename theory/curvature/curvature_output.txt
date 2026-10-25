@@ -1,0 +1,10 @@
+F1/F2 flat orientable: degree-0 terms {(): '0', (2, 3, 6): '5/6', (2, 4, 4): '3/4', (3, 3, 3): '2/3', (2, 2, 2, 2): '1/2'}
+F3 at K = 0 the cone coefficients b_l, 1 <= l <= 6, vanish; at K != 0 none vanish (m <= 12)
+F4 doubled triangles pi(1/4,1/4,1/2) [orbifold S^2(2,4,4)] and pi(1/5,2/5,2/5) [not an orbifold] share every heat coefficient; the level set 1/x+1/y+1/z = 10 has interior points for 299 of the sampled x = k/1000 (a curve, not isolated points)
+S1 N_l formula = explicit character sums, l <= 61, groups ['C5', 'D6', 'D2', 'T', 'O', 'I'] (|G| = 2/chi asserted)
+S2 [t^l] B_m(t) == Ucar b_l(m) at K=+1, exactly, for l <= 12, 2 <= m <= 30
+S2 numeric sanity: B_m(0.004) summed directly agrees with the 4-term expansion to 1e-6
+S2 degree-0 terms from the spectrum match DGGW Table 1 for (2,3,3), (2,3,4), (2,3,5)
+S3 degree-0 term injective on the good spherical class with n <= 20000 (and proved for all n)
+S3 chi(2,2,n) = chi(2n,2n) = 1/n: the area coefficient alone never suffices
+ALL ASSERTS PASSED

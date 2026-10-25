@@ -1,0 +1,15 @@
+(1)-(2) structure of p_l and triangular expansion in psi_k
+  l=0: phi_l = (1/12) psi_1
+  l=1: phi_l = (1/36) psi_1 + (1/360) psi_2
+  l=2: phi_l = (1/180) psi_1 + (1/720) psi_2 + (1/2520) psi_3
+  l=3: phi_l = (1/945) psi_1 + (1/2160) psi_2 + (1/3780) psi_3 + (1/10080) psi_4
+  checked l = 0..15: even, degree 2l+2, p_l(1)=0, Bernoulli leading term, triangular in psi with nonzero diagonal
+(3) padding by order-1 points
+  300 random signatures, l <= 15: area and every C_l unchanged; b_l(1) = 0
+(4) genus reduction: differences forced by equal area and equal C_0..C_{L-2}
+  L = 2..16: unique solution R-R' = P_(2k-1)-P'_(2k-1) = 2(g-g') for all k <= L-1
+(5) heat_key and int_key give the same agreement count
+  3998 signatures (g<=2, n<=4, orders<=12), 3616 equal-area pairs: counts identical; max shared = 2
+heat_structure.py: all assertions passed
+python3 -u heat_structure.py  3.00s user 0.16s system 73% cpu 4.303 total
+EXIT 0

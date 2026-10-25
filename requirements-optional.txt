@@ -1,0 +1,15 @@
+# Optional environment for the finite-element steps (NGSolve), Python 3.13:
+#   python3.13 -m venv .venv-fem && .venv-fem/bin/pip install -r requirements-optional.txt
+#   make full PYTHON=.venv/bin/python PYTHON_NUMERICS=.venv-fem/bin/python
+# Without it these steps are skipped with a message; every check of the committed eigenvalue data
+# runs in the core environment.
+mpmath==1.3.0
+netgen-mesher==6.2.2607
+netgen_occt==7.8.1
+ngsolve==6.2.2607
+numpy==2.5.3
+scipy==1.18.1
+sympy==1.14.0
+# Blender (figures F1 and F6; tested with Blender 5.2.2): install it from blender.org and put
+# `blender` on PATH, or set BLENDER. Without it the two render steps are skipped with a message;
+# the data assertions of F1 and F6 run in the core environment.

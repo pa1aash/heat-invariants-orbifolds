@@ -1,0 +1,104 @@
+{
+ "about": "The one palette definition shared by the matplotlib style (figstyle.py) and the Blender materials (blender_palette.py). Colours are never typed: every hue is a sample of a fetched table in third_party/ at the stated position (0..1 along the table, 255 steps); neutrals are given by their CIE L*. 'chosen' names the candidate the figures use;",
+ "chosen": "E",
+ "candidates": {
+  "A": {
+   "name": "batlow",
+   "sequential": {
+    "table": "crameri_batlow.txt",
+    "reverse": true
+   },
+   "pillow": {
+    "2,8,8": {
+     "table": "crameri_batlow.txt",
+     "at": 0.2
+    },
+    "3,3,12": {
+     "table": "crameri_batlow.txt",
+     "at": 0.7
+    }
+   }
+  },
+  "B": {
+   "name": "lajolla-oslo",
+   "sequential": {
+    "table": "crameri_lajolla.txt",
+    "reverse": true
+   },
+   "pillow": {
+    "2,8,8": {
+     "table": "crameri_oslo.txt",
+     "at": 0.38
+    },
+    "3,3,12": {
+     "table": "crameri_lajolla.txt",
+     "at": 0.7
+    }
+   }
+  },
+  "C": {
+   "name": "lipari",
+   "sequential": {
+    "table": "crameri_lipari.txt",
+    "reverse": true
+   },
+   "pillow": {
+    "2,8,8": {
+     "table": "crameri_lipari.txt",
+     "at": 0.2
+    },
+    "3,3,12": {
+     "table": "crameri_lipari.txt",
+     "at": 0.66
+    }
+   }
+  },
+  "D": {
+   "name": "viridis",
+   "sequential": {
+    "table": "viridis.txt",
+    "reverse": true
+   },
+   "pillow": {
+    "2,8,8": {
+     "table": "viridis.txt",
+     "at": 0.18
+    },
+    "3,3,12": {
+     "table": "viridis.txt",
+     "at": 0.72
+    }
+   }
+  },
+  "E": {
+   "name": "batlow-lajolla",
+   "sequential": {
+    "table": "crameri_lajolla.txt",
+    "reverse": true
+   },
+   "pillow": {
+    "2,8,8": {
+     "table": "crameri_batlow.txt",
+     "at": 0.2
+    },
+    "3,3,12": {
+     "table": "crameri_batlow.txt",
+     "at": 0.7
+    }
+   }
+  }
+ },
+ "sequential_note": "reverse = true: the light end of the table is the small value, so a larger value carries more ink ('darker = larger' in every caption).",
+ "neutral_Lstar": {
+  "ink": 15,
+  "dark": 40,
+  "mid": 62,
+  "light": 82,
+  "faint": 92,
+  "paper": 100,
+  "render_background": 97
+ },
+ "tint": {
+  "light_tone_mix_with_white": 0.55
+ }
+}

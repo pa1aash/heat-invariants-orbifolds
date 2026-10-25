@@ -1,0 +1,50 @@
+PASS (a) l - tmax = l(l+2)/(2(l+1)) > 0, so t < l
+PASS (a) d/dt (1 + 2t/(l-t)) = 2l/(l-t)^2 > 0: increasing in t
+PASS (a) value at t = l^2/(2(1+l)) is (2+3l)/(2+l)
+PASS (a) l=1/100: grid of 50 rational t in (0, tmax]: factor <= (2+3l)/(2+l) < 3
+PASS (a) l=1/3: grid of 50 rational t in (0, tmax]: factor <= (2+3l)/(2+l) < 3
+PASS (a) l=1: grid of 50 rational t in (0, tmax]: factor <= (2+3l)/(2+l) < 3
+PASS (a) l=5/2: grid of 50 rational t in (0, tmax]: factor <= (2+3l)/(2+l) < 3
+PASS (a) l=10: grid of 50 rational t in (0, tmax]: factor <= (2+3l)/(2+l) < 3
+PASS (a) l=100: grid of 50 rational t in (0, tmax]: factor <= (2+3l)/(2+l) < 3
+PASS (b) pi/sqrt(4 pi) = sqrt(pi)/2
+PASS (c) l/(2 tmax) = 1/l + 1
+PASS (c) tmax <= l^2/2 (phi_t decreasing on [l, inf) needs t <= l^2/2)
+PASS (d) l=0.2, t=0.01667: erfc step 0.0468161 <= 0.0481938
+PASS (c) l=0.2, t=0.01667: phi_t decreasing on [l, l+10]
+PASS (e) l=0.2, t=0.01667: Hyp majorant 14.7134 <= C t^-1/2 e^-l^2/4t = 14.7784
+PASS (d) l=0.2, t=0.008333: erfc step 0.0177186 <= 0.0178893
+PASS (c) l=0.2, t=0.008333: phi_t decreasing on [l, l+10]
+PASS (e) l=0.2, t=0.008333: Hyp majorant 10.5413 <= C t^-1/2 e^-l^2/4t = 11.4701
+PASS (d) l=0.2, t=0.001667: erfc step 6.35911e-5 <= 6.36277e-5
+PASS (c) l=0.2, t=0.001667: phi_t decreasing on [l, l+10]
+PASS (e) l=0.2, t=0.001667: Hyp majorant 0.181602 <= C t^-1/2 e^-l^2/4t = 0.211075
+PASS (d) l=1.0, t=0.25: erfc step 0.209533 <= 0.228132
+PASS (c) l=1.0, t=0.25: phi_t decreasing on [l, l+10]
+PASS (e) l=1.0, t=0.25: Hyp majorant 7.46406 <= C t^-1/2 e^-l^2/4t = 7.71567
+PASS (d) l=1.0, t=0.125: erfc step 0.0496744 <= 0.0508663
+PASS (c) l=1.0, t=0.125: phi_t decreasing on [l, l+10]
+PASS (e) l=1.0, t=0.125: Hyp majorant 3.08051 <= C t^-1/2 e^-l^2/4t = 4.01416
+PASS (d) l=1.0, t=0.025: erfc step 6.8406e-6 <= 6.84846e-6
+PASS (c) l=1.0, t=0.025: phi_t decreasing on [l, l+10]
+PASS (e) l=1.0, t=0.025: Hyp majorant 0.00189919 <= C t^-1/2 e^-l^2/4t = 0.00301109
+PASS (d) l=3.0, t=1.125: erfc step 0.520415 <= 0.58073
+PASS (c) l=3.0, t=1.125: phi_t decreasing on [l, l+10]
+PASS (e) l=3.0, t=1.125: Hyp majorant 9.03886 <= C t^-1/2 e^-l^2/4t = 9.58168
+PASS (d) l=3.0, t=0.5625: erfc step 0.0417118 <= 0.0427491
+PASS (c) l=3.0, t=0.5625: phi_t decreasing on [l, l+10]
+PASS (e) l=3.0, t=0.5625: Hyp majorant 1.20897 <= C t^-1/2 e^-l^2/4t = 1.83387
+PASS (d) l=3.0, t=0.1125: erfc step 1.81445e-9 <= 1.81615e-9
+PASS (c) l=3.0, t=0.1125: phi_t decreasing on [l, l+10]
+PASS (e) l=3.0, t=0.1125: Hyp majorant 2.26087e-7 <= C t^-1/2 e^-l^2/4t = 4.61467e-7
+PASS (d) l=8.0, t=3.556: erfc step 1.05858 <= 1.16146
+PASS (c) l=8.0, t=3.556: phi_t decreasing on [l, l+10]
+PASS (e) l=8.0, t=3.556: Hyp majorant 15.2653 <= C t^-1/2 e^-l^2/4t = 16.1455
+PASS (d) l=8.0, t=1.778: erfc step 0.00640982 <= 0.00651682
+PASS (c) l=8.0, t=1.778: phi_t decreasing on [l, l+10]
+PASS (e) l=8.0, t=1.778: Hyp majorant 0.152391 <= C t^-1/2 e^-l^2/4t = 0.253653
+PASS (d) l=8.0, t=0.3556: erfc step 5.49949e-19 <= 5.50236e-19
+PASS (c) l=8.0, t=0.3556: phi_t decreasing on [l, l+10]
+PASS (e) l=8.0, t=0.3556: Hyp majorant 5.53045e-17 <= C t^-1/2 e^-l^2/4t = 1.3156e-16
+
+48 checks, 0 failures

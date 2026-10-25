@@ -1,0 +1,6 @@
+shape (3,5): 35252 of 100000 random positive V give a genuine positive real U (35.3%)
+shape (2, 6): genuine real solutions from 300 least-squares starts: 0
+shape (1, 7): genuine real solutions from 300 least-squares starts: 0
+shape (3, 5): genuine real solutions from 300 least-squares starts: 205
+shape (4, 4): genuine real solutions from 300 least-squares starts: 156
+ALL CHECKS PASSED

@@ -1,0 +1,51 @@
+{
+  "title": "Code and data for: How many heat invariants determine a hyperbolic orbifold?",
+  "upload_type": "software",
+  "description": "<p>Code and data for the paper <em>How many heat invariants determine a hyperbolic orbifold?</em> and its supplement: the exact-arithmetic checks of the theorems on heat invariants of closed hyperbolic 2-orbifolds, the Prouhet-Tarry-Escott constructions and searches, the stability constants and certificates, the computer algebra of variable curvature, the finite-element eigenvalues of the minimal triangle pair and of a moduli family with their validation, the figures and the generated tables. <code>make verify</code> reruns the fast checks and <code>make all</code> everything; DATA.md lists every data file with its checksum, producing script and paper element, and TRACE.md maps every checkable item of the paper to its script.</p>",
+  "creators": [
+    {
+      "name": "Gang, Palaash",
+      "orcid": "0009-0006-7448-9488",
+      "affiliation": "Indus International School, Pune, India"
+    },
+    {
+      "name": "Agadi, Akshaj",
+      "orcid": "0009-0009-1378-0556",
+      "affiliation": "Texas A&M University, College Station, Texas, USA"
+    },
+    {
+      "name": "Veluri, Arjun",
+      "orcid": "0009-0001-5940-3272",
+      "affiliation": "Indus International School, Pune, India"
+    },
+    {
+      "name": "Wang, Jerry",
+      "orcid": "0009-0004-1814-275X",
+      "affiliation": "University of California, Irvine, Irvine, California, USA"
+    },
+    {
+      "name": "Barreto, Jeremy",
+      "orcid": "0009-0006-6894-7323",
+      "affiliation": "Lawrence High School, Lawrenceville, New Jersey, USA"
+    },
+    {
+      "name": "Chouthaiwale, Aarin",
+      "orcid": "0009-0008-3878-7183",
+      "affiliation": "DriveChange Learning and Resource Centre, Pune, India"
+    }
+  ],
+  "keywords": [
+    "heat invariants",
+    "hyperbolic orbifolds",
+    "inverse spectral problems",
+    "cone singularities",
+    "power sums",
+    "Prouhet-Tarry-Escott problem",
+    "Laplace eigenvalues",
+    "Selberg trace formula"
+  ],
+  "access_right": "open",
+  "license": "mit",
+  "notes": "Code: MIT licence (LICENSE). Data, figures and text: CC-BY-4.0 (LICENSE-DATA).",
+  "language": "eng"
+}

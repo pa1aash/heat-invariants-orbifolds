@@ -1,0 +1,5 @@
+Part 1-3: linear part of b_l = (2/(l-1)!) C^(-2l-2) (-Delta)^(l-1) K, checked for l <= 7 on all monomials x^a y^b, a+b <= 14 (833 cases)
+radial r^(2k): first-order trace = -2 k k! 4^k t^k C^(-2k-2), k <= 7
+linear parts of b_1..b_4 (Donnelly, Schueth Thm 3.7, VC3, independent b_4) match
+a_1 K-coefficient = 2 Pi_2, a_2 Delta K-coefficient = -2 Pi_3 (Schueth Thm 4.1), a_3 Delta^2 K-coefficient = Pi_4 (VC3)
+ALL ASSERTS PASSED

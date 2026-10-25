@@ -1,0 +1,8 @@
+n=2: Orlando (general a0, zeros) OK; Delta_1(prod(z+m_i)) = prod(m_i+m_j), 2 terms, all positive; Delta_n = a_n Delta_1; Res(even,odd)/Delta_1 = 1   [0.1s]
+n=3: Orlando (general a0, zeros) OK; Delta_2(prod(z+m_i)) = prod(m_i+m_j), 7 terms, all positive; Delta_n = a_n Delta_2; Res(even,odd)/Delta_2 = 1   [0.0s]
+n=4: Orlando (general a0, zeros) OK; Delta_3(prod(z+m_i)) = prod(m_i+m_j), 38 terms, all positive; Delta_n = a_n Delta_3; Res(even,odd)/Delta_3 = -1   [0.1s]
+n=5: Orlando (general a0, zeros) OK; Delta_4(prod(z+m_i)) = prod(m_i+m_j), 291 terms, all positive; Delta_n = a_n Delta_4; Res(even,odd)/Delta_4 = -1   [0.2s]
+n=6: Orlando (general a0, zeros) OK; Delta_5(prod(z+m_i)) = prod(m_i+m_j), 2932 terms, all positive; Delta_n = a_n Delta_5; Res(even,odd)/Delta_5 = -1   [1.0s]
+n=7: Orlando (general a0, zeros) OK; Delta_6(prod(z+m_i)) = prod(m_i+m_j), 36961 terms, all positive; Delta_n = a_n Delta_6; Res(even,odd)/Delta_6 = -1   [14.3s]
+orlando_check: all assertions passed for degrees 2..7
+exit=0

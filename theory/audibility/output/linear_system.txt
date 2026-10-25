@@ -1,0 +1,8 @@
+n=3: true e solves M e = b; det M = +Delta_2(p)/e_n  (det has 2 terms in the invariants); leading-minor signs [1, 1, -1]; end-to-end recovery OK  [0.8s]
+n=4: true e solves M e = b; det M = +Delta_3(p)/e_n  (det has 3 terms in the invariants); leading-minor signs [1, -1, -1, -1]; end-to-end recovery OK  [1.8s]
+n=5: true e solves M e = b; det M = -Delta_4(p)/e_n  (det has 7 terms in the invariants); leading-minor signs [1, -1, -1, -1, 1]; end-to-end recovery OK  [4.5s]
+n=6: true e solves M e = b; det M = -Delta_5(p)/e_n  (det has 14 terms in the invariants); leading-minor signs [1, -1, -1, 1, 1, 1]; end-to-end recovery OK  [5.2s]
+n=7: true e solves M e = b; det M = +Delta_6(p)/e_n  (det has 42 terms in the invariants); leading-minor signs [1, -1, -1, 1, 1, 1, -1]; end-to-end recovery OK  [7.4s]
+n=8: true e solves M e = b; det M = +Delta_7(p)/e_n  (det has 109 terms in the invariants); leading-minor signs [1, -1, -1, 1, 1, -1, -1, -1]; end-to-end recovery OK  [22.4s]
+linear_system: all assertions passed for n = 3..8
+exit=0

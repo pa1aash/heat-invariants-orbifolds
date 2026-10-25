@@ -1,0 +1,29 @@
+PASS (a) m=2: residue at +pi/m = -0.125
+PASS (a) m=2: residue at -pi/m = 0.125
+PASS (a) m=2: Phi - principal parts bounded (0.43687) on |u| = 0.95 * 4.7124
+PASS (a) m=3: residue at +pi/m = -0.0962250448649
+PASS (a) m=3: residue at -pi/m = 0.0962250448649
+PASS (a) m=3: Phi - principal parts bounded (0.74281) on |u| = 0.95 * 2.0944
+PASS (a) m=5: residue at +pi/m = -0.0850650808352
+PASS (a) m=5: residue at -pi/m = 0.0850650808352
+PASS (a) m=5: Phi - principal parts bounded (0.81716) on |u| = 0.95 * 1.2566
+PASS (a) m=8: residue at +pi/m = -0.0816601853048
+PASS (a) m=8: residue at -pi/m = 0.0816601853048
+PASS (a) m=8: Phi - principal parts bounded (1.154) on |u| = 0.95 * 0.7854
+PASS (b) m=2: |eps_k| / q^k <= 0.33333 for 5 <= k <= 120, q = 0.111
+PASS (b) m=3: |eps_k| / q^k <= 0.5 for 5 <= k <= 120, q = 0.25
+PASS (b) m=5: |eps_k| / q^k <= 0.31283 for 5 <= k <= 120, q = 0.25
+PASS (b) m=12: |eps_k| / q^k <= 0.26101 for 5 <= k <= 120, q = 0.25
+PASS (c) m=2: l^2 * remainder at l = 20, 60, 120: ['0.213454', '0.197476', '0.193805']; pi^4/(32 m^4) = 0.190252
+PASS (c) m=3: l^2 * remainder at l = 20, 60, 120: ['0.041888', '0.03893', '0.0382453']; pi^4/(32 m^4) = 0.0375807
+PASS (c) m=4: l^2 * remainder at l = 20, 60, 120: ['0.0132233', '0.0123091', '0.0120969']; pi^4/(32 m^4) = 0.0118908
+PASS (c) m=8: l^2 * remainder at l = 20, 60, 120: ['0.000824636', '0.000768805', '0.000755811']; pi^4/(32 m^4) = 0.000743172
+PASS (c) m=12: l^2 * remainder at l = 20, 60, 120: ['0.000162825', '0.000151844', '0.000149287']; pi^4/(32 m^4) = 0.000146799
+PASS (d) bound holds for 0 <= l <= 60
+PASS (e) (g=0; (2, 8, 8)): pi^2 |c_(l+2)|/(l |c_(l+1)| M^2) at l=150 = 0.99666494
+PASS (e) (g=0; (3, 3, 12)): pi^2 |c_(l+2)|/(l |c_(l+1)| M^2) at l=150 = 0.9966659
+PASS (e) (g=1; (2, 3)): pi^2 |c_(l+2)|/(l |c_(l+1)| M^2) at l=150 = 0.99665436
+PASS (e) (g=10000; (2,)): pi^2 |c_(l+2)|/(l |c_(l+1)| M^2) at l=150 = 0.99663897
+PASS (f) genus 10^4, one cone of order 2: smooth part dominates exactly for l <= 8, with opposite sign
+
+27 checks, 0 failures

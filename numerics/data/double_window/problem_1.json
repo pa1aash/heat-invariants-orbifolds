@@ -1,0 +1,31 @@
+{
+ "result": {
+  "problem": "(2,8,8) Dirichlet",
+  "level": "h=0.05, p=10, NEV=1300, k=200",
+  "committed_file": "data/eigenvalues_2-8-8_D.csv",
+  "committed_sha256": "9419730d82a428e70b2986390596a9f6efca50a3ef03ed6d7893b99dcee8beb3",
+  "n_committed": 1420,
+  "n_rerun": 1323,
+  "n_compared": 1323,
+  "common_cut": 22192.609457809787,
+  "count_below_cut_committed": 1322,
+  "count_below_cut_rerun": 1322,
+  "max_abs_diff": 6.548361852765083e-11,
+  "max_rel_diff": 7.437816987288841e-15,
+  "max_rel_diff_first500": 7.437816987288841e-15,
+  "max_diff_over_err_estimate": 0.04160106239363274,
+  "max_diff_over_err_conservative": 0.7437684578527003,
+  "arpack_misses_repaired": 0,
+  "n_slices": 32,
+  "lambda_max_rerun": 22192.609458809788,
+  "lambda_max_committed": 23808.4155075698,
+  "counts_agree": true,
+  "values_within_err_conservative": true,
+  "first500_below_1em8": true,
+  "seconds": 643.5528569221497,
+  "ndof": 34561
+ },
+ "threads": 6,
+ "machine": "macOS-26.3.1-arm64-arm-64bit-Mach-O",
+ "python": "3.13.12"
+}

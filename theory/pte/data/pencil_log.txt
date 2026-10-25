@@ -1,0 +1,11 @@
+Pencil search log (the paper Theorem 3.1), 2026-10-05/06.
+
+m = 4 (L = 3), sets A = {a,b,c,-(a+b+c)}, primitive, |entries| <= N, pencil pair iff e3^4/e4^3 agree:
+  N = 130 (pencil_search.py 130 200, output/pencil_search.txt): 1,229,952 sets; 25 distinct configurations;
+          every one of size 8, an exact 3-configuration, iota = 0; none contains +-1.
+  N = 220 (same algorithm, run once in a scratch copy, 6 min): 352 pencil pairs -> 61 distinct configurations;
+          all exact 3-configurations with iota = 0; none contains +-1.
+          Smallest six: (-28,-21,-5,-4,3,10,15,30) (-72,-56,-10,-9,7,15,50,75) (-72,-56,-12,-9,7,21,44,77)
+                        (-75,-50,-15,-12,10,21,44,77) (-72,-56,-13,-9,7,26,39,78) (-75,-50,-15,-13,10,26,39,78)
+m = 5 (L = 4), odd symmetric 5-sets (e1 = e3 = 0), primitive, |entries| <= 200, pencil pair iff e4^5/e5^4 agree:
+  1,592 sets; 0 pencil configurations.

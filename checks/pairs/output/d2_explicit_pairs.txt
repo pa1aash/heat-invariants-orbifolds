@@ -1,0 +1,2 @@
+Remark 3.13: {1,1,1,1,7} has exactly one partner triple, of positive reals 0.2664, 4.2830, 6.4506
+D2: 23 pairs (18 diamonds, 5 squares) verified: equal areas, hyperbolic, shared exactly L heat invariants (b_l and Psi_k agree); table written to supplement_tables.tex

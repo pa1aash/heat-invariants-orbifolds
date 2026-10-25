@@ -1,0 +1,31 @@
+{
+ "result": {
+  "problem": "(3,3,12) Dirichlet",
+  "level": "h=0.05, p=10, NEV=1300, k=200",
+  "committed_file": "data/eigenvalues_3-3-12_D.csv",
+  "committed_sha256": "bb4ae78f3728c1709c0b5144599cf9dd39cf7021cb650861f99765ac657345d4",
+  "n_committed": 1420,
+  "n_rerun": 1323,
+  "n_compared": 1323,
+  "common_cut": 22169.3561419889,
+  "count_below_cut_committed": 1322,
+  "count_below_cut_rerun": 1322,
+  "max_abs_diff": 1.0913936421275139e-10,
+  "max_rel_diff": 8.301583216336003e-15,
+  "max_rel_diff_first500": 8.301583216336003e-15,
+  "max_diff_over_err_estimate": 0.09238966196677491,
+  "max_diff_over_err_conservative": 0.8301498526943523,
+  "arpack_misses_repaired": 0,
+  "n_slices": 32,
+  "lambda_max_rerun": 22169.3561429889,
+  "lambda_max_committed": 23775.3597522012,
+  "counts_agree": true,
+  "values_within_err_conservative": true,
+  "first500_below_1em8": true,
+  "seconds": 1184.101595878601,
+  "ndof": 34026
+ },
+ "threads": 6,
+ "machine": "macOS-26.3.1-arm64-arm-64bit-Mach-O",
+ "python": "3.13.12"
+}

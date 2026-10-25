@@ -1,0 +1,9 @@
+family A: 20000 planted (0 non-integral); decisions {1: 19942, 2: 58}
+family B: 5637 planted (5637 non-integral); decisions {1: 5637}
+family C: 6600 planted (6269 non-integral); decisions {1: 6597, 2: 2, 3: 1}
+family D: 5000 planted (0 non-integral); decisions {2: 5000}
+family E: 16087 planted (8538 non-integral); decisions {1: 16015, 2: 72}
+false negatives: 0 []
+search_T3 30 1 30: N=30 v5 in [1,30]: V-sets 264463, 3 positive real roots 1765, candidates 0 (repeated-root 0, undecided 0)
+independent exact count, v5 <= 30: V-sets 264463, cubics with 3 positive real roots 1765, splitting over Q 0
+ALL CHECKS PASSED

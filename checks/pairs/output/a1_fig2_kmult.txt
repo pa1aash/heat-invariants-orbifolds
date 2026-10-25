@@ -1,0 +1,6 @@
+A1: Fig. 2 (F4) dots recomputed from complete area classes
+selection rule: the 525 values s in (0, 7/5] attained with genus <= 2 (in effect <= 1), at most 4 cone points, orders <= 12; equals the committed s column
+complete classes: 33946 signatures in total, no order bound; largest order met 4064891292
+max K_mult histogram: {1: 17, 2: 311, 3: 197}
+coefficient criterion (b_l) and power-sum criterion (Psi_k) agree on every pair
+no value changes: every class size and every max K_mult, K_n, K_g equals the committed CSV

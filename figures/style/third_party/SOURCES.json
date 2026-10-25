@@ -1,0 +1,19 @@
+{
+ "crameri": {
+  "doi": "10.5281/zenodo.8409685",
+  "licence": "MIT",
+  "sha256": "fe8ccf8e26d87b6703e96e4da1a6872f14a79e725c7025bc9db034898b8fc02c",
+  "url": "https://zenodo.org/api/records/8409685/files/ScientificColourMaps8.zip/content",
+  "version": "8.0.1"
+ },
+ "machado2009": {
+  "sha256": "379c549025f91ac05a611631114ff8202fa2d802bc29e15f79479c7985373346",
+  "url": "https://www.inf.ufrgs.br/~oliveira/pubs_files/CVD_Simulation/CVD_Simulation.html"
+ },
+ "viridis": {
+  "licence": "CC0 1.0",
+  "licence_url": "https://raw.githubusercontent.com/BIDS/colormap/master/LICENSE.txt",
+  "sha256": "b07e28b8ce320eee6ba859c77db2d4416f1946d65ca796a976de9bcb917ed87b",
+  "url": "https://raw.githubusercontent.com/BIDS/colormap/master/option_d.py"
+ }
+}

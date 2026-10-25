@@ -1,0 +1,31 @@
+{
+ "result": {
+  "problem": "(2,8,8) Neumann",
+  "level": "h=0.05, p=10, NEV=1300, k=200",
+  "committed_file": "data/eigenvalues_2-8-8_N.csv",
+  "committed_sha256": "23540a778666e2b5b5053fc60d20d72ac7d2cbea0ec0cfa9ac6f0a59c24d0417",
+  "n_committed": 1425,
+  "n_rerun": 1324,
+  "n_compared": 1324,
+  "common_cut": 20171.813531844495,
+  "count_below_cut_committed": 1323,
+  "count_below_cut_rerun": 1323,
+  "max_abs_diff": 7.457856554538012e-11,
+  "max_rel_diff": 8.398627234501828e-15,
+  "max_rel_diff_first500": 8.398627234501828e-15,
+  "max_diff_over_err_estimate": 0.05382899513334092,
+  "max_diff_over_err_conservative": 0.839885030449291,
+  "arpack_misses_repaired": 0,
+  "n_slices": 32,
+  "lambda_max_rerun": 20171.813532844495,
+  "lambda_max_committed": 21735.9715054523,
+  "counts_agree": true,
+  "values_within_err_conservative": true,
+  "first500_below_1em8": true,
+  "seconds": 1063.0584871768951,
+  "ndof": 35641
+ },
+ "threads": 6,
+ "machine": "macOS-26.3.1-arm64-arm-64bit-Mach-O",
+ "python": "3.13.12"
+}

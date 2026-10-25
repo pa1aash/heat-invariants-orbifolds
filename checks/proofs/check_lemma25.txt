@@ -1,0 +1,625 @@
+PASS (a) M_a(s) = 1/(2 sin((a-s)/2)) at a=0.333333, s=0
+PASS (a) M_a(s) = 1/(2 sin((a-s)/2)) at a=0.333333, s=0.2
+PASS (a) M_a(s) = 1/(2 sin((a-s)/2)) at a=0.333333, s=-0.15
+PASS (a) M_a(s) = 1/(2 sin((a-s)/2)) at a=1, s=0
+PASS (a) M_a(s) = 1/(2 sin((a-s)/2)) at a=1, s=0.2
+PASS (a) M_a(s) = 1/(2 sin((a-s)/2)) at a=1, s=-0.15
+PASS (a) M_a(s) = 1/(2 sin((a-s)/2)) at a=1.5708, s=0
+PASS (a) M_a(s) = 1/(2 sin((a-s)/2)) at a=1.5708, s=0.2
+PASS (a) M_a(s) = 1/(2 sin((a-s)/2)) at a=1.5708, s=-0.15
+PASS (a) M_a(s) = 1/(2 sin((a-s)/2)) at a=2, s=0
+PASS (a) M_a(s) = 1/(2 sin((a-s)/2)) at a=2, s=0.2
+PASS (a) M_a(s) = 1/(2 sin((a-s)/2)) at a=2, s=-0.15
+PASS (a) M_a(s) = 1/(2 sin((a-s)/2)) at a=5, s=0
+PASS (a) M_a(s) = 1/(2 sin((a-s)/2)) at a=5, s=0.2
+PASS (a) M_a(s) = 1/(2 sin((a-s)/2)) at a=5, s=-0.15
+PASS (a) M_a(s) = 1/(2 sin((a-s)/2)) at a=6, s=0
+PASS (a) M_a(s) = 1/(2 sin((a-s)/2)) at a=6, s=0.2
+PASS (a) M_a(s) = 1/(2 sin((a-s)/2)) at a=6, s=-0.15
+PASS (b) Phi_2(0.1) closed form
+PASS (b) sum_j cot(x + pi j/2) = 2 cot(2x)
+PASS (b) Phi_2(0.37) closed form
+PASS (b) sum_j cot(x + pi j/2) = 2 cot(2x)
+PASS (b) Phi_2(-0.21) closed form
+PASS (b) sum_j cot(x + pi j/2) = 2 cot(2x)
+PASS (b) Phi_2((0.05 + 0.3j)) closed form
+PASS (b) sum_j cot(x + pi j/2) = 2 cot(2x)
+PASS (b) Phi_2 is even
+PASS (b) Phi_3(0.1) closed form
+PASS (b) sum_j cot(x + pi j/3) = 3 cot(3x)
+PASS (b) Phi_3(0.37) closed form
+PASS (b) sum_j cot(x + pi j/3) = 3 cot(3x)
+PASS (b) Phi_3(-0.21) closed form
+PASS (b) sum_j cot(x + pi j/3) = 3 cot(3x)
+PASS (b) Phi_3((0.05 + 0.3j)) closed form
+PASS (b) sum_j cot(x + pi j/3) = 3 cot(3x)
+PASS (b) Phi_3 is even
+PASS (b) Phi_4(0.1) closed form
+PASS (b) sum_j cot(x + pi j/4) = 4 cot(4x)
+PASS (b) Phi_4(0.37) closed form
+PASS (b) sum_j cot(x + pi j/4) = 4 cot(4x)
+PASS (b) Phi_4(-0.21) closed form
+PASS (b) sum_j cot(x + pi j/4) = 4 cot(4x)
+PASS (b) Phi_4((0.05 + 0.3j)) closed form
+PASS (b) sum_j cot(x + pi j/4) = 4 cot(4x)
+PASS (b) Phi_4 is even
+PASS (b) Phi_5(0.1) closed form
+PASS (b) sum_j cot(x + pi j/5) = 5 cot(5x)
+PASS (b) Phi_5(0.37) closed form
+PASS (b) sum_j cot(x + pi j/5) = 5 cot(5x)
+PASS (b) Phi_5(-0.21) closed form
+PASS (b) sum_j cot(x + pi j/5) = 5 cot(5x)
+PASS (b) Phi_5((0.05 + 0.3j)) closed form
+PASS (b) sum_j cot(x + pi j/5) = 5 cot(5x)
+PASS (b) Phi_5 is even
+PASS (b) Phi_7(0.1) closed form
+PASS (b) sum_j cot(x + pi j/7) = 7 cot(7x)
+PASS (b) Phi_7(0.37) closed form
+PASS (b) sum_j cot(x + pi j/7) = 7 cot(7x)
+PASS (b) Phi_7(-0.21) closed form
+PASS (b) sum_j cot(x + pi j/7) = 7 cot(7x)
+PASS (b) Phi_7((0.05 + 0.3j)) closed form
+PASS (b) sum_j cot(x + pi j/7) = 7 cot(7x)
+PASS (b) Phi_7 is even
+PASS (b) Phi_12(0.1) closed form
+PASS (b) sum_j cot(x + pi j/12) = 12 cot(12x)
+PASS (b) Phi_12(0.37) closed form
+PASS (b) sum_j cot(x + pi j/12) = 12 cot(12x)
+PASS (b) Phi_12(-0.21) closed form
+PASS (b) sum_j cot(x + pi j/12) = 12 cot(12x)
+PASS (b) Phi_12((0.05 + 0.3j)) closed form
+PASS (b) sum_j cot(x + pi j/12) = 12 cot(12x)
+PASS (b) Phi_12 is even
+PASS (b) Phi_30(0.1) closed form
+PASS (b) sum_j cot(x + pi j/30) = 30 cot(30x)
+PASS (b) Phi_30(0.37) closed form
+PASS (b) sum_j cot(x + pi j/30) = 30 cot(30x)
+PASS (b) Phi_30(-0.21) closed form
+PASS (b) sum_j cot(x + pi j/30) = 30 cot(30x)
+PASS (b) Phi_30((0.05 + 0.3j)) closed form
+PASS (b) sum_j cot(x + pi j/30) = 30 cot(30x)
+PASS (b) Phi_30 is even
+PASS (c) [u^0] Phi_2 = (0.125 - 4.893978351e-54j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=2, k=0
+PASS (c) [u^2] Phi_2 = (0.0625 + 3.5889174574e-54j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=2, k=1
+PASS (c) [u^4] Phi_2 = (0.0260416666667 - 1.71941772732e-52j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=2, k=2
+PASS (c) [u^6] Phi_2 = (0.0105902777778 + 2.6101217872e-53j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=2, k=3
+PASS (c) [u^8] Phi_2 = (0.00429377480159 + 3.35400649655e-52j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=2, k=4
+PASS (c) [u^10] Phi_2 = (0.00174027915564 + 6.10768498205e-52j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=2, k=5
+PASS (c) [u^12] Phi_2 = (0.000705312101254 + 2.03589499402e-52j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=2, k=6
+PASS (c) [u^0] Phi_3 = (0.222222222222 - 2.81403755182e-54j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=3, k=0
+PASS (c) [u^2] Phi_3 = (0.185185185185 - 1.6117502036e-52j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=3, k=1
+PASS (c) [u^4] Phi_3 = (0.157407407407 + 2.33866912133e-51j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=3, k=2
+PASS (c) [u^6] Phi_3 = (0.140432098765 + 4.28059973101e-52j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=3, k=3
+PASS (c) [u^8] Phi_3 = (0.127322775818 + 1.15262978123e-50j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=3, k=4
+PASS (c) [u^10] Phi_3 = (0.115935172937 + 1.90434485594e-50j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=3, k=5
+PASS (c) [u^12] Phi_3 = (0.105681529155 + 6.28099706872e-50j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=3, k=6
+PASS (c) [u^0] Phi_5 = (0.4 - 4.66559269462e-53j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=5, k=0
+PASS (c) [u^2] Phi_5 = (0.76 + 4.30670094888e-53j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=5, k=1
+PASS (c) [u^4] Phi_5 = (1.77666666667 + 1.96281158397e-51j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=5, k=2
+PASS (c) [u^6] Phi_5 = (4.42344444444 + 1.20274411954e-50j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=5, k=3
+PASS (c) [u^8] Phi_5 = (11.1609623016 - 9.62195295633e-50j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=5, k=4
+PASS (c) [u^10] Phi_5 = (28.2445993607 + 2.13821176807e-48j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=5, k=5
+PASS (c) [u^12] Phi_5 = (71.5279806406 - 1.36845553157e-47j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=5, k=6
+PASS (c) [u^0] Phi_8 = (0.65625 + 7.95271482037e-53j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=8, k=0
+PASS (c) [u^2] Phi_8 = (2.953125 + 3.70637293782e-52j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=8, k=1
+PASS (c) [u^4] Phi_8 = (17.82421875 - 6.91577868736e-50j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=8, k=2
+PASS (c) [u^6] Phi_8 = (113.906640625 + 6.67122071639e-48j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=8, k=3
+PASS (c) [u^8] Phi_8 = (736.156396484 - 8.96338373177e-47j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=8, k=4
+PASS (c) [u^10] Phi_8 = (4769.7698398 + 1.05097384824e-45j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=8, k=5
+PASS (c) [u^12] Phi_8 = (30923.6428212 + 5.46506401087e-44j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=8, k=6
+PASS (c) [u^0] Phi_12 = (0.993055555556 - 1.78630209811e-53j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=12, k=0
+PASS (c) [u^2] Phi_12 = (9.7650462963 + 7.09953126118e-51j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=12, k=1
+PASS (c) [u^4] Phi_12 = (133.276331019 + 2.95607776936e-48j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=12, k=2
+PASS (c) [u^6] Phi_12 = (1917.99439622 - 7.35544848217e-47j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=12, k=3
+PASS (c) [u^8] Phi_12 = (27894.7440439 - 4.66369645158e-45j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=12, k=4
+PASS (c) [u^10] Phi_12 = (406675.791685 + 1.40129846432e-44j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=12, k=5
+PASS (c) [u^12] Phi_12 = (5932365.82672 - 1.17484863249e-41j) matches the Bernoulli formula
+PASS (c) finite cosecant-derivative sum, m=12, k=6
+PASS (d) sum_j mu_0(2 th_j)/(2m sin th_j) = 4^-k Phi^(0)(0), m=2
+PASS (d) sum_j mu_2(2 th_j)/(2m sin th_j) = 4^-k Phi^(2)(0), m=2
+PASS (d) sum_j mu_4(2 th_j)/(2m sin th_j) = 4^-k Phi^(4)(0), m=2
+PASS (d) sum_j mu_6(2 th_j)/(2m sin th_j) = 4^-k Phi^(6)(0), m=2
+PASS (d) sum_j mu_8(2 th_j)/(2m sin th_j) = 4^-k Phi^(8)(0), m=2
+PASS (d) sum_j mu_10(2 th_j)/(2m sin th_j) = 4^-k Phi^(10)(0), m=2
+PASS (d) [t^0] E_2 = (-1)^l p_l(m)/m (exact)
+PASS (d) [t^1] E_2 = (-1)^l p_l(m)/m (exact)
+PASS (d) [t^2] E_2 = (-1)^l p_l(m)/m (exact)
+PASS (d) [t^3] E_2 = (-1)^l p_l(m)/m (exact)
+PASS (d) [t^4] E_2 = (-1)^l p_l(m)/m (exact)
+PASS (d) [t^5] E_2 = (-1)^l p_l(m)/m (exact)
+PASS (d) sum_j mu_0(2 th_j)/(2m sin th_j) = 4^-k Phi^(0)(0), m=3
+PASS (d) sum_j mu_2(2 th_j)/(2m sin th_j) = 4^-k Phi^(2)(0), m=3
+PASS (d) sum_j mu_4(2 th_j)/(2m sin th_j) = 4^-k Phi^(4)(0), m=3
+PASS (d) sum_j mu_6(2 th_j)/(2m sin th_j) = 4^-k Phi^(6)(0), m=3
+PASS (d) sum_j mu_8(2 th_j)/(2m sin th_j) = 4^-k Phi^(8)(0), m=3
+PASS (d) sum_j mu_10(2 th_j)/(2m sin th_j) = 4^-k Phi^(10)(0), m=3
+PASS (d) [t^0] E_3 = (-1)^l p_l(m)/m (exact)
+PASS (d) [t^1] E_3 = (-1)^l p_l(m)/m (exact)
+PASS (d) [t^2] E_3 = (-1)^l p_l(m)/m (exact)
+PASS (d) [t^3] E_3 = (-1)^l p_l(m)/m (exact)
+PASS (d) [t^4] E_3 = (-1)^l p_l(m)/m (exact)
+PASS (d) [t^5] E_3 = (-1)^l p_l(m)/m (exact)
+PASS (d) sum_j mu_0(2 th_j)/(2m sin th_j) = 4^-k Phi^(0)(0), m=5
+PASS (d) sum_j mu_2(2 th_j)/(2m sin th_j) = 4^-k Phi^(2)(0), m=5
+PASS (d) sum_j mu_4(2 th_j)/(2m sin th_j) = 4^-k Phi^(4)(0), m=5
+PASS (d) sum_j mu_6(2 th_j)/(2m sin th_j) = 4^-k Phi^(6)(0), m=5
+PASS (d) sum_j mu_8(2 th_j)/(2m sin th_j) = 4^-k Phi^(8)(0), m=5
+PASS (d) sum_j mu_10(2 th_j)/(2m sin th_j) = 4^-k Phi^(10)(0), m=5
+PASS (d) [t^0] E_5 = (-1)^l p_l(m)/m (exact)
+PASS (d) [t^1] E_5 = (-1)^l p_l(m)/m (exact)
+PASS (d) [t^2] E_5 = (-1)^l p_l(m)/m (exact)
+PASS (d) [t^3] E_5 = (-1)^l p_l(m)/m (exact)
+PASS (d) [t^4] E_5 = (-1)^l p_l(m)/m (exact)
+PASS (d) [t^5] E_5 = (-1)^l p_l(m)/m (exact)
+PASS (d) sum_j mu_0(2 th_j)/(2m sin th_j) = 4^-k Phi^(0)(0), m=7
+PASS (d) sum_j mu_2(2 th_j)/(2m sin th_j) = 4^-k Phi^(2)(0), m=7
+PASS (d) sum_j mu_4(2 th_j)/(2m sin th_j) = 4^-k Phi^(4)(0), m=7
+PASS (d) sum_j mu_6(2 th_j)/(2m sin th_j) = 4^-k Phi^(6)(0), m=7
+PASS (d) sum_j mu_8(2 th_j)/(2m sin th_j) = 4^-k Phi^(8)(0), m=7
+PASS (d) sum_j mu_10(2 th_j)/(2m sin th_j) = 4^-k Phi^(10)(0), m=7
+PASS (d) [t^0] E_7 = (-1)^l p_l(m)/m (exact)
+PASS (d) [t^1] E_7 = (-1)^l p_l(m)/m (exact)
+PASS (d) [t^2] E_7 = (-1)^l p_l(m)/m (exact)
+PASS (d) [t^3] E_7 = (-1)^l p_l(m)/m (exact)
+PASS (d) [t^4] E_7 = (-1)^l p_l(m)/m (exact)
+PASS (d) [t^5] E_7 = (-1)^l p_l(m)/m (exact)
+PASS (d) sum_j mu_0(2 th_j)/(2m sin th_j) = 4^-k Phi^(0)(0), m=12
+PASS (d) sum_j mu_2(2 th_j)/(2m sin th_j) = 4^-k Phi^(2)(0), m=12
+PASS (d) sum_j mu_4(2 th_j)/(2m sin th_j) = 4^-k Phi^(4)(0), m=12
+PASS (d) sum_j mu_6(2 th_j)/(2m sin th_j) = 4^-k Phi^(6)(0), m=12
+PASS (d) sum_j mu_8(2 th_j)/(2m sin th_j) = 4^-k Phi^(8)(0), m=12
+PASS (d) sum_j mu_10(2 th_j)/(2m sin th_j) = 4^-k Phi^(10)(0), m=12
+PASS (d) [t^0] E_12 = (-1)^l p_l(m)/m (exact)
+PASS (d) [t^1] E_12 = (-1)^l p_l(m)/m (exact)
+PASS (d) [t^2] E_12 = (-1)^l p_l(m)/m (exact)
+PASS (d) [t^3] E_12 = (-1)^l p_l(m)/m (exact)
+PASS (d) [t^4] E_12 = (-1)^l p_l(m)/m (exact)
+PASS (d) [t^5] E_12 = (-1)^l p_l(m)/m (exact)
+PASS (e) l=0: p_l even
+PASS (e) l=0: degree 2 = 2l+2
+PASS (e) l=0: p_l(1) = 0
+PASS (e) l=0: leading coefficient = |B_2|/(2(l+1)!(2l+1)) = 1/12
+PASS (e) l=0: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=1: p_l even
+PASS (e) l=1: degree 4 = 2l+2
+PASS (e) l=1: p_l(1) = 0
+PASS (e) l=1: leading coefficient = |B_4|/(2(l+1)!(2l+1)) = 1/360
+PASS (e) l=1: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=2: p_l even
+PASS (e) l=2: degree 6 = 2l+2
+PASS (e) l=2: p_l(1) = 0
+PASS (e) l=2: leading coefficient = |B_6|/(2(l+1)!(2l+1)) = 1/2520
+PASS (e) l=2: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=3: p_l even
+PASS (e) l=3: degree 8 = 2l+2
+PASS (e) l=3: p_l(1) = 0
+PASS (e) l=3: leading coefficient = |B_8|/(2(l+1)!(2l+1)) = 1/10080
+PASS (e) l=3: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=4: p_l even
+PASS (e) l=4: degree 10 = 2l+2
+PASS (e) l=4: p_l(1) = 0
+PASS (e) l=4: leading coefficient = |B_10|/(2(l+1)!(2l+1)) = 1/28512
+PASS (e) l=4: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=5: p_l even
+PASS (e) l=5: degree 12 = 2l+2
+PASS (e) l=5: p_l(1) = 0
+PASS (e) l=5: leading coefficient = |B_12|/(2(l+1)!(2l+1)) = 691/43243200
+PASS (e) l=5: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=6: p_l even
+PASS (e) l=6: degree 14 = 2l+2
+PASS (e) l=6: p_l(1) = 0
+PASS (e) l=6: leading coefficient = |B_14|/(2(l+1)!(2l+1)) = 1/112320
+PASS (e) l=6: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=7: p_l even
+PASS (e) l=7: degree 16 = 2l+2
+PASS (e) l=7: p_l(1) = 0
+PASS (e) l=7: leading coefficient = |B_16|/(2(l+1)!(2l+1)) = 3617/616896000
+PASS (e) l=7: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=8: p_l even
+PASS (e) l=8: degree 18 = 2l+2
+PASS (e) l=8: p_l(1) = 0
+PASS (e) l=8: leading coefficient = |B_18|/(2(l+1)!(2l+1)) = 43867/9845660160
+PASS (e) l=8: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=9: p_l even
+PASS (e) l=9: degree 20 = 2l+2
+PASS (e) l=9: p_l(1) = 0
+PASS (e) l=9: leading coefficient = |B_20|/(2(l+1)!(2l+1)) = 174611/45505152000
+PASS (e) l=9: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=10: p_l even
+PASS (e) l=10: degree 22 = 2l+2
+PASS (e) l=10: p_l(1) = 0
+PASS (e) l=10: leading coefficient = |B_22|/(2(l+1)!(2l+1)) = 77683/21032524800
+PASS (e) l=10: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=11: p_l even
+PASS (e) l=11: degree 24 = 2l+2
+PASS (e) l=11: p_l(1) = 0
+PASS (e) l=11: leading coefficient = |B_24|/(2(l+1)!(2l+1)) = 236364091/60153020928000
+PASS (e) l=11: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=12: p_l even
+PASS (e) l=12: degree 26 = 2l+2
+PASS (e) l=12: p_l(1) = 0
+PASS (e) l=12: leading coefficient = |B_26|/(2(l+1)!(2l+1)) = 657931/143700480000
+PASS (e) l=12: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=13: p_l even
+PASS (e) l=13: degree 28 = 2l+2
+PASS (e) l=13: p_l(1) = 0
+PASS (e) l=13: leading coefficient = |B_28|/(2(l+1)!(2l+1)) = 3392780147/585090874368000
+PASS (e) l=13: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=14: p_l even
+PASS (e) l=14: degree 30 = 2l+2
+PASS (e) l=14: p_l(1) = 0
+PASS (e) l=14: leading coefficient = |B_30|/(2(l+1)!(2l+1)) = 1723168255201/217250742662553600
+PASS (e) l=14: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=15: p_l even
+PASS (e) l=15: degree 32 = 2l+2
+PASS (e) l=15: p_l(1) = 0
+PASS (e) l=15: leading coefficient = |B_32|/(2(l+1)!(2l+1)) = 7709321041217/661578616258560000
+PASS (e) l=15: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=16: p_l even
+PASS (e) l=16: degree 34 = 2l+2
+PASS (e) l=16: p_l(1) = 0
+PASS (e) l=16: leading coefficient = |B_34|/(2(l+1)!(2l+1)) = 151628697551/8285424795648000
+PASS (e) l=16: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=17: p_l even
+PASS (e) l=17: degree 36 = 2l+2
+PASS (e) l=17: p_l(1) = 0
+PASS (e) l=17: leading coefficient = |B_36|/(2(l+1)!(2l+1)) = 26315271553053477373/860116011460728422400000
+PASS (e) l=17: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=18: p_l even
+PASS (e) l=18: degree 38 = 2l+2
+PASS (e) l=18: p_l(1) = 0
+PASS (e) l=18: leading coefficient = |B_38|/(2(l+1)!(2l+1)) = 154210205991661/2842653925343232000
+PASS (e) l=18: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=19: p_l even
+PASS (e) l=19: degree 40 = 2l+2
+PASS (e) l=19: p_l(1) = 0
+PASS (e) l=19: leading coefficient = |B_40|/(2(l+1)!(2l+1)) = 261082718496449122051/2567538805309135257600000
+PASS (e) l=19: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=20: p_l even
+PASS (e) l=20: degree 42 = 2l+2
+PASS (e) l=20: p_l(1) = 0
+PASS (e) l=20: leading coefficient = |B_42|/(2(l+1)!(2l+1)) = 1520097643918070802691/7566159808092794388480000
+PASS (e) l=20: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=21: p_l even
+PASS (e) l=21: degree 44 = 2l+2
+PASS (e) l=21: p_l(1) = 0
+PASS (e) l=21: leading coefficient = |B_44|/(2(l+1)!(2l+1)) = 2530297234481911294093/6063473016938476339200000
+PASS (e) l=21: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=22: p_l even
+PASS (e) l=22: degree 46 = 2l+2
+PASS (e) l=22: p_l(1) = 0
+PASS (e) l=22: leading coefficient = |B_46|/(2(l+1)!(2l+1)) = 25932657025822267968607/28527138470995682918400000
+PASS (e) l=22: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=23: p_l even
+PASS (e) l=23: degree 48 = 2l+2
+PASS (e) l=23: p_l(1) = 0
+PASS (e) l=23: leading coefficient = |B_48|/(2(l+1)!(2l+1)) = 5609403368997817686249127547/2706730970497326383785574400000
+PASS (e) l=23: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=24: p_l even
+PASS (e) l=24: degree 50 = 2l+2
+PASS (e) l=24: p_l(1) = 0
+PASS (e) l=24: leading coefficient = |B_50|/(2(l+1)!(2l+1)) = 19802288209643185928499101/4013060262410592693780480000
+PASS (e) l=24: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=25: p_l even
+PASS (e) l=25: degree 52 = 2l+2
+PASS (e) l=25: p_l(1) = 0
+PASS (e) l=25: leading coefficient = |B_52|/(2(l+1)!(2l+1)) = 61628132164268458257532691681/5031216089654838613770240000000
+PASS (e) l=25: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=26: p_l even
+PASS (e) l=26: degree 54 = 2l+2
+PASS (e) l=26: p_l(1) = 0
+PASS (e) l=26: leading coefficient = |B_54|/(2(l+1)!(2l+1)) = 29149963634884862421418123812691/921067689071987572575043584000000
+PASS (e) l=26: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=27: p_l even
+PASS (e) l=27: degree 56 = 2l+2
+PASS (e) l=27: p_l(1) = 0
+PASS (e) l=27: leading coefficient = |B_56|/(2(l+1)!(2l+1)) = 354198989901889536240773677094747/4168259225620145207141990400000000
+PASS (e) l=27: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=28: p_l even
+PASS (e) l=28: degree 58 = 2l+2
+PASS (e) l=28: p_l(1) = 0
+PASS (e) l=28: leading coefficient = |B_58|/(2(l+1)!(2l+1)) = 2913228046513104891794716413587449/12304074035150324554398695424000000
+PASS (e) l=28: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=29: p_l even
+PASS (e) l=29: degree 60 = 2l+2
+PASS (e) l=29: p_l(1) = 0
+PASS (e) l=29: leading coefficient = |B_60|/(2(l+1)!(2l+1)) = 1215233140483755572040304994079820246041491/1777415418762163833912917706355507200000000
+PASS (e) l=29: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=30: p_l even
+PASS (e) l=30: degree 62 = 2l+2
+PASS (e) l=30: p_l(1) = 0
+PASS (e) l=30: leading coefficient = |B_62|/(2(l+1)!(2l+1)) = 396793078518930920708162576045270521/194165093382523854921777807360000000
+PASS (e) l=30: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=31: p_l even
+PASS (e) l=31: degree 64 = 2l+2
+PASS (e) l=31: p_l(1) = 0
+PASS (e) l=31: leading coefficient = |B_64|/(2(l+1)!(2l+1)) = 106783830147866529886385444979142647942017/16908787581359146248545429461401600000000
+PASS (e) l=31: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=32: p_l even
+PASS (e) l=32: degree 66 = 2l+2
+PASS (e) l=32: p_l(1) = 0
+PASS (e) l=32: leading coefficient = |B_66|/(2(l+1)!(2l+1)) = 133872729284212332186510857141084758385627191/6641838070928779937198246831377612800000000
+PASS (e) l=32: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=33: p_l even
+PASS (e) l=33: degree 68 = 2l+2
+PASS (e) l=33: p_l(1) = 0
+PASS (e) l=33: leading coefficient = |B_68|/(2(l+1)!(2l+1)) = 4633713579924631067171126424027918014373353/69813873655247567423966282986291200000000
+PASS (e) l=33: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=34: p_l even
+PASS (e) l=34: degree 70 = 2l+2
+PASS (e) l=34: p_l(1) = 0
+PASS (e) l=34: leading coefficient = |B_70|/(2(l+1)!(2l+1)) = 43010895638096200108659330496510205957469661721/190917603689342730553647831060955791360000000
+PASS (e) l=34: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=35: p_l even
+PASS (e) l=35: degree 72 = 2l+2
+PASS (e) l=35: p_l(1) = 0
+PASS (e) l=35: leading coefficient = |B_72|/(2(l+1)!(2l+1)) = 5827954961669944110438277244641067365282488301844260429/7400555597879244424948280618054170190020608000000000
+PASS (e) l=35: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=36: p_l even
+PASS (e) l=36: degree 74 = 2l+2
+PASS (e) l=36: p_l(1) = 0
+PASS (e) l=36: leading coefficient = |B_74|/(2(l+1)!(2l+1)) = 923038305114085622008920911661422572613197507651/325866154267953466501967516580131635200000000
+PASS (e) l=36: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=37: p_l even
+PASS (e) l=37: degree 76 = 2l+2
+PASS (e) l=37: p_l(1) = 0
+PASS (e) l=37: leading coefficient = |B_76|/(2(l+1)!(2l+1)) = 1297636253996598563562484002136063152861329885729779/123873777821037105416843816234228121600000000000
+PASS (e) l=37: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=38: p_l even
+PASS (e) l=38: degree 78 = 2l+2
+PASS (e) l=38: p_l(1) = 0
+PASS (e) l=38: leading coefficient = |B_78|/(2(l+1)!(2l+1)) = 31911258890415448330398387349964774884015336567107729499/801749738676432309834703233938589482169139200000000
+PASS (e) l=38: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=39: p_l even
+PASS (e) l=39: degree 80 = 2l+2
+PASS (e) l=39: p_l(1) = 0
+PASS (e) l=39: leading coefficient = |B_80|/(2(l+1)!(2l+1)) = 4603784299479457646935574969019046849794257872751288919656867/29651650539376135344539779602928813460957429760000000000
+PASS (e) l=39: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) l=40: p_l even
+PASS (e) l=40: degree 82 = 2l+2
+PASS (e) l=40: p_l(1) = 0
+PASS (e) l=40: leading coefficient = |B_82|/(2(l+1)!(2l+1)) = 40902784126466971629833036824055363419700878721225693045893/65824781391307397616066534785936245886287872000000000
+PASS (e) l=40: p_l(m) > 0 for 2 <= m <= 40
+PASS (e) k=0: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=1: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=2: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=3: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=4: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=5: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=6: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=7: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=8: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=9: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=10: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=11: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=12: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=13: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=14: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=15: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=16: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=17: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=18: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=19: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=20: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=21: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=22: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=23: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=24: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=25: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=26: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=27: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=28: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=29: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=30: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=31: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=32: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=33: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=34: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=35: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=36: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=37: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=38: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=39: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (e) k=40: every term of m phi_k is a positive multiple of m^(2n)-1
+PASS (f) l=0: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=1: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=2: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=3: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=4: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=5: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=6: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=7: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=8: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=9: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=10: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=11: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=12: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=13: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=14: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=15: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=16: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=17: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=18: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=19: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=20: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=21: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=22: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=23: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=24: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=25: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=26: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=27: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=28: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=29: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=30: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=31: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=32: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=33: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=34: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=35: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=36: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=37: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=38: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=39: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=40: p_l (trace formula) = Ucar (4.25)+(4.33) exactly
+PASS (f) l=0: equals the paper's eq. (plexplicit)
+PASS (f) l=1: equals the paper's eq. (plexplicit)
+PASS (f) l=2: equals the paper's eq. (plexplicit)
+PASS (f) l=3: equals the factorised form in Ucar's thesis
+PASS (f) l=4: equals the factorised form in Ucar's thesis
+PASS (f) m=2: b_0 = (m - 1/m)/12
+PASS (f) m=2: -b_1 = (m^3-1/m)/360 + (m-1/m)/36
+PASS (f) m=3: b_0 = (m - 1/m)/12
+PASS (f) m=3: -b_1 = (m^3-1/m)/360 + (m-1/m)/36
+PASS (f) m=4: b_0 = (m - 1/m)/12
+PASS (f) m=4: -b_1 = (m^3-1/m)/360 + (m-1/m)/36
+PASS (f) m=5: b_0 = (m - 1/m)/12
+PASS (f) m=5: -b_1 = (m^3-1/m)/360 + (m-1/m)/36
+PASS (f) m=6: b_0 = (m - 1/m)/12
+PASS (f) m=6: -b_1 = (m^3-1/m)/360 + (m-1/m)/36
+PASS (f) m=7: b_0 = (m - 1/m)/12
+PASS (f) m=7: -b_1 = (m^3-1/m)/360 + (m-1/m)/36
+PASS (f) m=8: b_0 = (m - 1/m)/12
+PASS (f) m=8: -b_1 = (m^3-1/m)/360 + (m-1/m)/36
+PASS (f) m=9: b_0 = (m - 1/m)/12
+PASS (f) m=9: -b_1 = (m^3-1/m)/360 + (m-1/m)/36
+PASS (f) m=10: b_0 = (m - 1/m)/12
+PASS (f) m=10: -b_1 = (m^3-1/m)/360 + (m-1/m)/36
+PASS (f) m=11: b_0 = (m - 1/m)/12
+PASS (f) m=11: -b_1 = (m^3-1/m)/360 + (m-1/m)/36
+PASS (f) m=12: b_0 = (m - 1/m)/12
+PASS (f) m=12: -b_1 = (m^3-1/m)/360 + (m-1/m)/36
+PASS (f) m=13: b_0 = (m - 1/m)/12
+PASS (f) m=13: -b_1 = (m^3-1/m)/360 + (m-1/m)/36
+PASS (f) m=14: b_0 = (m - 1/m)/12
+PASS (f) m=14: -b_1 = (m^3-1/m)/360 + (m-1/m)/36
+PASS (f) m=15: b_0 = (m - 1/m)/12
+PASS (f) m=15: -b_1 = (m^3-1/m)/360 + (m-1/m)/36
+PASS (f) m=16: b_0 = (m - 1/m)/12
+PASS (f) m=16: -b_1 = (m^3-1/m)/360 + (m-1/m)/36
+PASS (f) m=17: b_0 = (m - 1/m)/12
+PASS (f) m=17: -b_1 = (m^3-1/m)/360 + (m-1/m)/36
+PASS (f) m=18: b_0 = (m - 1/m)/12
+PASS (f) m=18: -b_1 = (m^3-1/m)/360 + (m-1/m)/36
+PASS (f) m=19: b_0 = (m - 1/m)/12
+PASS (f) m=19: -b_1 = (m^3-1/m)/360 + (m-1/m)/36
+PASS (g) l=0: sum_k a_lk = p_l(1) = 0
+PASS (g) l=0: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 1/12 != 0
+PASS (g) l=1: sum_k a_lk = p_l(1) = 0
+PASS (g) l=1: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 1/360 != 0
+PASS (g) l=2: sum_k a_lk = p_l(1) = 0
+PASS (g) l=2: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 1/2520 != 0
+PASS (g) l=3: sum_k a_lk = p_l(1) = 0
+PASS (g) l=3: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 1/10080 != 0
+PASS (g) l=4: sum_k a_lk = p_l(1) = 0
+PASS (g) l=4: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 1/28512 != 0
+PASS (g) l=5: sum_k a_lk = p_l(1) = 0
+PASS (g) l=5: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 691/43243200 != 0
+PASS (g) l=6: sum_k a_lk = p_l(1) = 0
+PASS (g) l=6: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 1/112320 != 0
+PASS (g) l=7: sum_k a_lk = p_l(1) = 0
+PASS (g) l=7: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 3617/616896000 != 0
+PASS (g) l=8: sum_k a_lk = p_l(1) = 0
+PASS (g) l=8: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 43867/9845660160 != 0
+PASS (g) l=9: sum_k a_lk = p_l(1) = 0
+PASS (g) l=9: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 174611/45505152000 != 0
+PASS (g) l=10: sum_k a_lk = p_l(1) = 0
+PASS (g) l=10: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 77683/21032524800 != 0
+PASS (g) l=11: sum_k a_lk = p_l(1) = 0
+PASS (g) l=11: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 236364091/60153020928000 != 0
+PASS (g) l=12: sum_k a_lk = p_l(1) = 0
+PASS (g) l=12: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 657931/143700480000 != 0
+PASS (g) l=13: sum_k a_lk = p_l(1) = 0
+PASS (g) l=13: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 3392780147/585090874368000 != 0
+PASS (g) l=14: sum_k a_lk = p_l(1) = 0
+PASS (g) l=14: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 1723168255201/217250742662553600 != 0
+PASS (g) l=15: sum_k a_lk = p_l(1) = 0
+PASS (g) l=15: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 7709321041217/661578616258560000 != 0
+PASS (g) l=16: sum_k a_lk = p_l(1) = 0
+PASS (g) l=16: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 151628697551/8285424795648000 != 0
+PASS (g) l=17: sum_k a_lk = p_l(1) = 0
+PASS (g) l=17: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 26315271553053477373/860116011460728422400000 != 0
+PASS (g) l=18: sum_k a_lk = p_l(1) = 0
+PASS (g) l=18: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 154210205991661/2842653925343232000 != 0
+PASS (g) l=19: sum_k a_lk = p_l(1) = 0
+PASS (g) l=19: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 261082718496449122051/2567538805309135257600000 != 0
+PASS (g) l=20: sum_k a_lk = p_l(1) = 0
+PASS (g) l=20: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 1520097643918070802691/7566159808092794388480000 != 0
+PASS (g) l=21: sum_k a_lk = p_l(1) = 0
+PASS (g) l=21: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 2530297234481911294093/6063473016938476339200000 != 0
+PASS (g) l=22: sum_k a_lk = p_l(1) = 0
+PASS (g) l=22: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 25932657025822267968607/28527138470995682918400000 != 0
+PASS (g) l=23: sum_k a_lk = p_l(1) = 0
+PASS (g) l=23: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 5609403368997817686249127547/2706730970497326383785574400000 != 0
+PASS (g) l=24: sum_k a_lk = p_l(1) = 0
+PASS (g) l=24: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 19802288209643185928499101/4013060262410592693780480000 != 0
+PASS (g) l=25: sum_k a_lk = p_l(1) = 0
+PASS (g) l=25: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 61628132164268458257532691681/5031216089654838613770240000000 != 0
+PASS (g) l=26: sum_k a_lk = p_l(1) = 0
+PASS (g) l=26: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 29149963634884862421418123812691/921067689071987572575043584000000 != 0
+PASS (g) l=27: sum_k a_lk = p_l(1) = 0
+PASS (g) l=27: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 354198989901889536240773677094747/4168259225620145207141990400000000 != 0
+PASS (g) l=28: sum_k a_lk = p_l(1) = 0
+PASS (g) l=28: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 2913228046513104891794716413587449/12304074035150324554398695424000000 != 0
+PASS (g) l=29: sum_k a_lk = p_l(1) = 0
+PASS (g) l=29: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 1215233140483755572040304994079820246041491/1777415418762163833912917706355507200000000 != 0
+PASS (g) l=30: sum_k a_lk = p_l(1) = 0
+PASS (g) l=30: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 396793078518930920708162576045270521/194165093382523854921777807360000000 != 0
+PASS (g) l=31: sum_k a_lk = p_l(1) = 0
+PASS (g) l=31: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 106783830147866529886385444979142647942017/16908787581359146248545429461401600000000 != 0
+PASS (g) l=32: sum_k a_lk = p_l(1) = 0
+PASS (g) l=32: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 133872729284212332186510857141084758385627191/6641838070928779937198246831377612800000000 != 0
+PASS (g) l=33: sum_k a_lk = p_l(1) = 0
+PASS (g) l=33: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 4633713579924631067171126424027918014373353/69813873655247567423966282986291200000000 != 0
+PASS (g) l=34: sum_k a_lk = p_l(1) = 0
+PASS (g) l=34: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 43010895638096200108659330496510205957469661721/190917603689342730553647831060955791360000000 != 0
+PASS (g) l=35: sum_k a_lk = p_l(1) = 0
+PASS (g) l=35: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 5827954961669944110438277244641067365282488301844260429/7400555597879244424948280618054170190020608000000000 != 0
+PASS (g) l=36: sum_k a_lk = p_l(1) = 0
+PASS (g) l=36: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 923038305114085622008920911661422572613197507651/325866154267953466501967516580131635200000000 != 0
+PASS (g) l=37: sum_k a_lk = p_l(1) = 0
+PASS (g) l=37: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 1297636253996598563562484002136063152861329885729779/123873777821037105416843816234228121600000000000 != 0
+PASS (g) l=38: sum_k a_lk = p_l(1) = 0
+PASS (g) l=38: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 31911258890415448330398387349964774884015336567107729499/801749738676432309834703233938589482169139200000000 != 0
+PASS (g) l=39: sum_k a_lk = p_l(1) = 0
+PASS (g) l=39: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 4603784299479457646935574969019046849794257872751288919656867/29651650539376135344539779602928813460957429760000000000 != 0
+PASS (g) l=40: sum_k a_lk = p_l(1) = 0
+PASS (g) l=40: p_l(x)/x = sum a_lk psi_k(x), a_(l,l+1) = 40902784126466971629833036824055363419700878721225693045893/65824781391307397616066534785936245886287872000000000 != 0
+PASS (h) m=3: (E_m(t) - sum_(l<3) b_l t^l)/(b_3 t^3) -> 1: 0.987971, 0.993938, 0.996957
+PASS (h) m=8: (E_m(t) - sum_(l<3) b_l t^l)/(b_3 t^3) -> 1: 0.919138, 0.957418, 0.978118
+
+623 checks, 0 failures

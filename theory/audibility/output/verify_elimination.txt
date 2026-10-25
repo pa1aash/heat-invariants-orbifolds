@@ -1,0 +1,11 @@
+H1 CONFIRMED: denominator 3 - 3 S1 R = -3 Delta_2/e3, Delta_2 = (p+q)(q+r)(r+p)
+H2 CONFIRMED: P5 equation linear in e4; numerator coefficient -15(P3 R - R S1^3 + 3 S1^2) = 45 Delta_3/e4 at the true data (over 9 S1); Delta_3 = prod(m_i+m_j), 38 terms, all positive; root = true e4
+H3 CONFIRMED: F5 has degree 1 in each of e3, e5; F7 degrees (2, 1); Res_e5(F5,F7) = -9 S1^2 * L(e3), L linear with lead = -945 Delta_4/e5; e5-step coefficient -5(R S1 - 1); unique solution = true (e2,e3,e4,e5); nonvanishing used: S1, R S1 - 1, Delta_4/e5
+H4 CONFIRMED (n=3..8): Delta_{n-1}(prod(z+m_i)) = +prod_{i<j}(m_i+m_j); and R S1 - n^2 = sum_{i<j}(m_i-m_j)^2/(m_i m_j) >= 0
+Lemma 1 (parity) CONFIRMED for odd j <= 11, in both directions
+Jacobian of (R,P1,...,P_{2n-3}) = c_n V(m) prod(m_i+m_j)/prod m_i^2 with c_n = -prod_{r<n}(2r-1) (n=2..7)
+n=6: naive Newton route (after e1=S1, e_(n-1)=R e_n, e2 from P3) in ['e3', 'e4', 'e6'] has total degrees {'P5': 1, 'P7': 2, 'P9': 3} -> not linear; tanh/Pade route: 6 linear steps, determinant -Delta_5/e_n = -prod(m_i+m_j)/prod(m_i), never zero
+n=7: naive Newton route (after e1=S1, e_(n-1)=R e_n, e2 from P3) in ['e3', 'e4', 'e5', 'e7'] has total degrees {'P5': 1, 'P7': 2, 'P9': 3, 'P11': 4} -> not linear; tanh/Pade route: 7 linear steps, determinant +Delta_6/e_n = +prod(m_i+m_j)/prod(m_i), never zero
+n=8: naive Newton route (after e1=S1, e_(n-1)=R e_n, e2 from P3) in ['e3', 'e4', 'e5', 'e6', 'e8'] has total degrees {'P5': 1, 'P7': 2, 'P9': 3, 'P11': 4, 'P13': 5} -> not linear; tanh/Pade route: 8 linear steps, determinant +Delta_7/e_n = +prod(m_i+m_j)/prod(m_i), never zero
+verify_elimination: all assertions passed [496.8s]
+exit=0

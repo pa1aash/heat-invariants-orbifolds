@@ -1,0 +1,8 @@
+(1) C^-2 P(cot), P even of degree 2d <= 16: polynomial in C^-2, no constant term, degree d+1
+(2) r=0.3: |W - f^2/r^2| = 4.73e-04, 1.19e-04, 2.97e-05 at theta = 0.2, 0.1, 0.05
+(2) r=0.6: |W - f^2/r^2| = 1.30e-03, 3.24e-04, 8.11e-05 at theta = 0.2, 0.1, 0.05
+(3) Gaussian moments l <= 8: t^l coefficient 4^l l! C^{-2l-2} [v^{2l}](f^{-1})'
+(4) sum_j (2 sin(pi j/m))^{-2i}: even polynomial of degree 2i, zero at m=1, top |B_2i|/(2i)!, i <= 6
+(5) beta_{l,l+1}: constant curvature (2l)!/l! K^l and linear part 2/(l-1)! (-Delta)^{l-1} K, l <= 8
+    m^5 coefficient of b_2: |B_6|/6! * (-2 Delta K) = -Delta K/15120 (Schueth, Thm 4.1)
+ALL ASSERTS PASSED

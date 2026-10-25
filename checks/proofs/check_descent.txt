@@ -1,0 +1,65 @@
+PASS (a) b = 2^7 3^3, a^2 - 4b = 140625 = 3^2 5^6
+PASS (a) x(x+9)(x+384) = x^3 + 393 x^2 + 3456 x
+PASS (a) Disc(E) = {2: 18, 3: 8, 5: 6}, Disc(E') = {2: 15, 3: 7, 5: 12}: bad primes {2,3,5}
+PASS (b) (x, y)(X:Y:1) satisfies E on C_{27/2} (remainder mod the equation of C is 0)
+PASS (b) the inverse map sends E into C_{27/2}
+PASS (b) x o inverse = x on E
+PASS (b) y o inverse = y on E
+PASS (b) (1:4:4) = (1/4 : 1 : 1) -> (-24, 360)
+     alpha (E, b = 3456): classes [-6, -3, -2, -1, 1, 2, 3, 6]
+     alpha (E, b = 3456): d = -3: no primitive solution mod 5^1
+     alpha (E, b = 3456): d = -2: no primitive solution mod 5^1
+     alpha (E, b = 3456): d = 2: no primitive solution mod 5^1
+     alpha (E, b = 3456): d = 3: no primitive solution mod 5^1
+PASS (c) Selmer bound for alpha: [-6, -1, 1, 6] = {1, -1, 6, -6}
+     alpha' (E', b' = 140625): classes [-15, -5, -3, -1, 1, 3, 5, 15]
+     alpha' (E', b' = 140625): d = -15: no real point (all coefficients of the quartic <= 0 and no positive value)
+     alpha' (E', b' = 140625): d = -5: no real point (all coefficients of the quartic <= 0 and no positive value)
+     alpha' (E', b' = 140625): d = -3: no real point (all coefficients of the quartic <= 0 and no positive value)
+     alpha' (E', b' = 140625): d = -1: no real point (all coefficients of the quartic <= 0 and no positive value)
+     alpha' (E', b' = 140625): d = 3: no primitive solution mod 2^4
+     alpha' (E', b' = 140625): d = 5: no primitive solution mod 2^7
+     alpha' (E', b' = 140625): d = 15: no primitive solution mod 2^4
+PASS (c) Selmer bound for alpha': [1] = {1}
+PASS (c) alpha of O, (0,0), (-9,0), (-384,0) = [-6, -1, 1, 6]: the bound is attained
+PASS (c) alpha'(0,0) = b' = 375^2 is a square: alpha'(E') = {1}
+PASS (c) 2^r = #alpha(E) #alpha'(E') / 4 = 4*1/4 = 1, so r = 0
+PASS (c) d = 2: d M^4 + 393 M^2 e^2 + (3456/d) e^4 mod 5 takes only the non-residues [2, 3]
+PASS (c) d = -2: d M^4 + 393 M^2 e^2 + (3456/d) e^4 mod 5 takes only the non-residues [2, 3]
+PASS (c) d = 3: d M^4 + 393 M^2 e^2 + (3456/d) e^4 mod 5 takes only the non-residues [2, 3]
+PASS (c) d = -3: d M^4 + 393 M^2 e^2 + (3456/d) e^4 mod 5 takes only the non-residues [2, 3]
+PASS (c) d' = -1: all three coefficients of N^2 = d M^4 - 786 M^2 e^2 + (140625/d) e^4 are negative
+PASS (c) d' = -3: all three coefficients of N^2 = d M^4 - 786 M^2 e^2 + (140625/d) e^4 are negative
+PASS (c) d' = -5: all three coefficients of N^2 = d M^4 - 786 M^2 e^2 + (140625/d) e^4 are negative
+PASS (c) d' = -15: all three coefficients of N^2 = d M^4 - 786 M^2 e^2 + (140625/d) e^4 are negative
+PASS (c) d' = 3: for every 3-adically primitive (M, e) mod 81, v_3(f) is odd or f/3^v = 2 mod 3: no Q_3-point
+PASS (c) d' = 3: no primitive solution mod 3^2
+PASS (c) d' = 5: for every 3-adically primitive (M, e) mod 81, v_3(f) is odd or f/3^v = 2 mod 3: no Q_3-point
+PASS (c) d' = 5: no primitive solution mod 3^3
+PASS (c) d' = 15: for every 3-adically primitive (M, e) mod 81, v_3(f) is odd or f/3^v = 2 mod 3: no Q_3-point
+PASS (c) d' = 15: no primitive solution mod 3^3
+PASS (d) #E(F_7) = 12, #E(F_11) = 12
+PASS (d) good reduction at 7 and 11
+PASS (d) all listed points lie on E
+PASS (d) 12 integral points found with |x| < 400; closed under addition
+PASS (d) order histogram {1: 1, 2: 3, 3: 2, 6: 6} = that of Z/2 x Z/6
+PASS (d) (0, 0) has order 2 (as printed in the paper)
+PASS (d) (-9, 0) has order 2 (as printed in the paper)
+PASS (d) (-384, 0) has order 2 (as printed in the paper)
+PASS (d) (16, 400) has order 3 (as printed in the paper)
+PASS (d) (16, -400) has order 3 (as printed in the paper)
+PASS (d) (-24, 360) has order 6 (as printed in the paper)
+PASS (d) (-24, -360) has order 6 (as printed in the paper)
+PASS (d) (-144, 2160) has order 6 (as printed in the paper)
+PASS (d) (-144, -2160) has order 6 (as printed in the paper)
+PASS (d) (216, 5400) has order 6 (as printed in the paper)
+PASS (d) (216, -5400) has order 6 (as printed in the paper)
+PASS (d) the printed list is all of the 12 points
+PASS (b) psi(O_E) = (1:-1:0): limits [1, -1, 0]
+     E(Q) = O, (-384, 0), (-144, -2160), (-144, 2160), (-24, -360), (-24, 360), (-9, 0), (0, 0), (16, -400), (16, 400), (216, -5400), (216, 5400)
+PASS (e) C_{27/2} is nonsingular (gradient vanishes nowhere on P^2(C))
+PASS (e) the 12 points (6 base points, permutations of (1:4:4) and (1:1:4)) lie on C_{27/2} and are distinct
+PASS (e) positive points: [(1, 1, 4), (1, 4, 1), (1, 4, 4), (4, 1, 1), (4, 1, 4), (4, 4, 1)]
+PASS (e) (2,8,8) and (3,3,12): sum 18, R = 3/4, Lambda = 27/2
+
+49 checks, 0 failures

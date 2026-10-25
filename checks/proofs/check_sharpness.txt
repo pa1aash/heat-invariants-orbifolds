@@ -1,0 +1,10 @@
+PASS (a) general data: data change orders in s = [3, None, 3] (P_1 unchanged)
+PASS (a) every root of q_s is at distance exactly s from a
+PASS (b) realisable triple: dR = -s**2/(4*s**2 - 256), dP_1 = 0, dP_3 = 48*s**2 (order s^2, roots move by s)
+PASS (c) identity 3a sum d^2 + sum d^3
+PASS (c) >= 2a sum d^2 on an exact grid with |d_i| <= a
+PASS (d) (2,8,8) double order: dR = -s**2/(4*s**2 - 256), dP_1 = 0, dP_3 = 48*s**2
+PASS (e) n=4: identity 3a sum d^2 + sum d^3
+PASS (e) n=4, (a+s,a-s,a,a): dP_1 = 0 and dR, dP_3, dP_5 are exactly of order s^2
+
+8 checks, 0 failures
